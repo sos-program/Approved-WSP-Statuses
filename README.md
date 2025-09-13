@@ -9,7 +9,7 @@ This repository contains the WSP statuses that have been approved for use throug
 ## Current list of approved CUs
 
 <table>
-<tr><th> Sockeye </th><th> Chinook </th><th> Coho <tr><th> Chum </th><th> Pink </th></tr>
+<tr><th> Sockeye </th><th> Chinook </th><th> Coho </th></tr>
 <tr><td valign="top">
 
 | CU ID | CU Name | 
@@ -76,6 +76,11 @@ This repository contains the WSP statuses that have been approved for use throug
 | CO-47 | Lower Fraser |
 | CO-48 | Middle Fraser |
 
+</td></tr> 
+</table>
+
+<table>
+<tr><th> Chum </th><th> Pink </th></tr>
 <tr><td valign="top">
 
 | CU ID | CU Name | 

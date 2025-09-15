@@ -1,0 +1,1524 @@
+"CU_ID","Species","Stock","Year","DataType","RelLBM","AbsLBM","LongTrend","PercChange","ProbDeclBelowLBM","Percentile","RelUBM","AbsUBM","RelAbd","AbsAbd","NumStdMetrics","Value"
+"CK-01","Chinook","Okanagan_1.x",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2005,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2006,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2007,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2008,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-01","Chinook","Okanagan_1.x",2009,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,11.1119167457077
+"CK-01","Chinook","Okanagan_1.x",2010,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,6.93270938109998
+"CK-01","Chinook","Okanagan_1.x",2011,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,8.6544747526523
+"CK-01","Chinook","Okanagan_1.x",2012,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,8.45069726622771
+"CK-01","Chinook","Okanagan_1.x",2013,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,13.1332358201094
+"CK-01","Chinook","Okanagan_1.x",2014,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,22.8727666534054
+"CK-01","Chinook","Okanagan_1.x",2015,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,30.8143829670097
+"CK-01","Chinook","Okanagan_1.x",2016,"Abs_Abd",NA,"Red",NA,NA,NA,NA,NA,"Red",NA,"Red",2,43.0228696704009
+"CK-01","Chinook","Okanagan_1.x",2017,"Abs_Abd",NA,"Red",NA,"Green",NA,NA,NA,"Red",NA,"Red",3,47.2688359959514
+"CK-01","Chinook","Okanagan_1.x",2018,"Abs_Abd",NA,"Red",NA,"Green",NA,NA,NA,"Red",NA,"Red",3,31.4373606463772
+"CK-01","Chinook","Okanagan_1.x",2019,"Abs_Abd",NA,"Red",NA,"Green",NA,NA,NA,"Red",NA,"Red",3,22.2295708956604
+"CK-01","Chinook","Okanagan_1.x",2020,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,26.1707335204165
+"CK-01","Chinook","Okanagan_1.x",2021,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,28.6255649324776
+"CK-01","Chinook","Okanagan_1.x",2022,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,36.193067934062
+"CK-01","Chinook","Okanagan_1.x",2023,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,34.8248055843251
+"CK-02","Chinook","Boundary Bay_FA_0.3",1995,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,38.7826217850268
+"CK-02","Chinook","Boundary Bay_FA_0.3",1996,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,61.8621546801949
+"CK-02","Chinook","Boundary Bay_FA_0.3",1997,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,95.7335064375009
+"CK-02","Chinook","Boundary Bay_FA_0.3",1998,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,143.78241129855
+"CK-02","Chinook","Boundary Bay_FA_0.3",1999,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,131.925020857852
+"CK-02","Chinook","Boundary Bay_FA_0.3",2000,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,146.294880899635
+"CK-02","Chinook","Boundary Bay_FA_0.3",2001,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,137.007168717452
+"CK-02","Chinook","Boundary Bay_FA_0.3",2002,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,111.54116184569
+"CK-02","Chinook","Boundary Bay_FA_0.3",2003,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,124.962270921637
+"CK-02","Chinook","Boundary Bay_FA_0.3",2004,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,94.1756194535331
+"CK-02","Chinook","Boundary Bay_FA_0.3",2005,"Abs_Abd",NA,"Red","Green","Amber",NA,NA,NA,"Red",NA,"Red",4,69.697756559969
+"CK-02","Chinook","Boundary Bay_FA_0.3",2006,"Abs_Abd",NA,"Red","Green","Red",NA,NA,NA,"Red",NA,"Red",4,61.4758948433095
+"CK-02","Chinook","Boundary Bay_FA_0.3",2007,"Abs_Abd",NA,"Red","Green","Red",NA,NA,NA,"Red",NA,"Red",4,61.0709821789433
+"CK-02","Chinook","Boundary Bay_FA_0.3",2008,"Abs_Abd",NA,"Red","Green","Red",NA,NA,NA,"Red",NA,"Red",4,51.7770753507366
+"CK-02","Chinook","Boundary Bay_FA_0.3",2009,"Abs_Abd",NA,"Red","Green","Red",NA,NA,NA,"Red",NA,"Red",4,56.7626583174844
+"CK-02","Chinook","Boundary Bay_FA_0.3",2010,"Abs_Abd",NA,"Red","Green","Amber",NA,NA,NA,"Red",NA,"Red",4,91.9682841292962
+"CK-02","Chinook","Boundary Bay_FA_0.3",2011,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,114.170522165876
+"CK-02","Chinook","Boundary Bay_FA_0.3",2012,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,188.632516607233
+"CK-02","Chinook","Boundary Bay_FA_0.3",2013,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,250.452898435018
+"CK-02","Chinook","Boundary Bay_FA_0.3",2014,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,190.452953860427
+"CK-02","Chinook","Boundary Bay_FA_0.3",2015,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,153.757714369186
+"CK-02","Chinook","Boundary Bay_FA_0.3",2016,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,139.607526536593
+"CK-02","Chinook","Boundary Bay_FA_0.3",2017,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,117.395468607058
+"CK-02","Chinook","Boundary Bay_FA_0.3",2018,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,108.025992590011
+"CK-02","Chinook","Boundary Bay_FA_0.3",2019,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,149.364079768223
+"CK-02","Chinook","Boundary Bay_FA_0.3",2020,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,192.372146604381
+"CK-02","Chinook","Boundary Bay_FA_0.3",2021,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,253.384616004996
+"CK-02","Chinook","Boundary Bay_FA_0.3",2022,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,395.476772302985
+"CK-02","Chinook","Boundary Bay_FA_0.3",2023,"Abs_Abd",NA,"Red","Green","Green",NA,NA,NA,"Red",NA,"Red",4,433.456014047749
+"CK-03","Chinook","Lower Fraser River_FA_0.3",1995,"Abs_Abd","Green","Green",NA,"Red",NA,NA,"Green","Green","Green","Green",5,76954.8522817721
+"CK-03","Chinook","Lower Fraser River_FA_0.3",1996,"Abs_Abd","Amber","Green",NA,"Red",NA,NA,"Amber","Green","Amber","Green",5,55024.6707400532
+"CK-03","Chinook","Lower Fraser River_FA_0.3",1997,"Abs_Abd","Amber","Green",NA,"Red",NA,NA,"Amber","Green","Amber","Green",5,48579.939524183
+"CK-03","Chinook","Lower Fraser River_FA_0.3",1998,"Abs_Abd","Amber","Green","Amber","Green",NA,NA,"Amber","Green","Amber","Green",6,56964.0570388122
+"CK-03","Chinook","Lower Fraser River_FA_0.3",1999,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,78401.3372353907
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2000,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6,98297.1717921569
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2001,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6,111464.430827609
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2002,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,92237.9809682833
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2003,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,116394.056470425
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2004,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,132522.836330351
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2005,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,123082.222298124
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2006,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,110091.495406788
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2007,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,82479.8010088294
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2008,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6,60704.696273179
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2009,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6,59213.6905358498
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2010,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6,69133.3451176612
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2011,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6,77661.4468723986
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2012,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6,80598.691908493
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2013,"Abs_Abd","Green","Green","Green","Red",NA,NA,"Green","Green","Green","Green",6,71783.0930587654
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2014,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6,58333.6678816767
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2015,"Abs_Abd","Amber","Green","Red","Red",NA,NA,"Amber","Green","Amber","Green",6,31484.7087118854
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2016,"Abs_Abd","Amber","Green","Red","Red",NA,NA,"Amber","Green","Amber","Green",6,31215.763826511
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2017,"Abs_Abd","Amber","Green","Red","Red",NA,NA,"Amber","Green","Amber","Green",6,28071.8506075743
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2018,"Abs_Abd","Amber","Green","Red","Red",NA,NA,"Amber","Green","Amber","Green",6,28184.2137165089
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2019,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6,40441.3860569828
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2020,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6,39625.6629729738
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2021,"Abs_Abd","Amber","Green","Amber","Red",NA,NA,"Amber","Green","Amber","Green",6,42660.4270296815
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2022,"Abs_Abd","Amber","Green","Amber","Green",NA,NA,"Amber","Green","Amber","Green",6,49493.2047108151
+"CK-03","Chinook","Lower Fraser River_FA_0.3",2023,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,66871.1525650653
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1995,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,330.177125706188
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1996,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,345.800917829591
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1997,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,331.084424041445
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1998,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,395.038135817769
+"CK-04","Chinook","Lower Fraser River_SP_1.3",1999,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,334.913611774577
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2000,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,400.229920452954
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2001,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,461.73088898484
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2002,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,442.410137227827
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2003,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,418.197944648743
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2004,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,434.941201955669
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2005,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,553.680345524113
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2006,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,622.118603251331
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2007,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,814.37459091167
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2008,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,705.373498643875
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2009,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,885.838878061484
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2010,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,889.258296608343
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2011,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,838.958936418542
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,666.76470658472
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,660.96587172361
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,598.153872405279
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,480.415425463115
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,364.934069635466
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,319.30630045628
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,292.301054925136
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,250.769450564331
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,206.209447866003
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,183.829043578584
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,178.340783698966
+"CK-04","Chinook","Lower Fraser River_SP_1.3",2023,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,213.851261050277
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,153.400368796192
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,130.88160707952
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,126.504544847804
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2012,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,126.504544847804
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2013,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2016,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2017,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2018,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2019,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,NA
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2020,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,55.4752460380541
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2021,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,62.0811440008112
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2022,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,42.4025431109945
+"CK-05","Chinook","Lower Fraser River-Upper Pitt_SU_1.3",2023,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,35.2009279899318
+"CK-06","Chinook","Lower Fraser River_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2012,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2013,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2016,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2017,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2018,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2019,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,49.3844266392718
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2020,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,46.012224732011
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2021,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,48.1122020825091
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2022,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,31.1783856282462
+"CK-06","Chinook","Lower Fraser River_SU_1.3",2023,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,41.3438004328716
+"CK-07","Chinook","Maria Slough_SU_0.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,131.277141725489
+"CK-07","Chinook","Maria Slough_SU_0.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,167.652302181903
+"CK-07","Chinook","Maria Slough_SU_0.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,237.09615950872
+"CK-07","Chinook","Maria Slough_SU_0.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,367.414025982428
+"CK-07","Chinook","Maria Slough_SU_0.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,508.945543556206
+"CK-07","Chinook","Maria Slough_SU_0.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",2007,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1,NA
+"CK-07","Chinook","Maria Slough_SU_0.3",2008,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1,435.304601757352
+"CK-07","Chinook","Maria Slough_SU_0.3",2009,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1,506.138098618772
+"CK-07","Chinook","Maria Slough_SU_0.3",2010,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1,622.876936332522
+"CK-07","Chinook","Maria Slough_SU_0.3",2011,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,767.679817656592
+"CK-07","Chinook","Maria Slough_SU_0.3",2012,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,652.61743669066
+"CK-07","Chinook","Maria Slough_SU_0.3",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,751.247671628281
+"CK-07","Chinook","Maria Slough_SU_0.3",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,650.101057773499
+"CK-07","Chinook","Maria Slough_SU_0.3",2015,"Rel_Idx",NA,NA,"Green",NA,NA,NA,NA,NA,NA,NA,1,618.712262993636
+"CK-07","Chinook","Maria Slough_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,465.390579234431
+"CK-07","Chinook","Maria Slough_SU_0.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,237.71746909821
+"CK-07","Chinook","Maria Slough_SU_0.3",2018,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,17.4297867292522
+"CK-07","Chinook","Maria Slough_SU_0.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,12.2493670301356
+"CK-07","Chinook","Maria Slough_SU_0.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,8.64091354509432
+"CK-07","Chinook","Maria Slough_SU_0.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,7.07998874526123
+"CK-07","Chinook","Maria Slough_SU_0.3",2022,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,55.5876694667456
+"CK-07","Chinook","Maria Slough_SU_0.3",2023,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,38.4316475951119
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2004,"Rel_Idx","Red","Red",NA,NA,NA,NA,"Red","Red","Red","Red",4,79.3780524683307
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2011,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2012,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,NA
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2013,"Rel_Idx","Red","Red",NA,NA,NA,NA,"Red","Red","Red","Red",4,15.2564248868461
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2014,"Rel_Idx","Red","Red",NA,"Red",NA,NA,"Red","Red","Red","Red",5,9.94418030104783
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2015,"Rel_Idx","Red","Red",NA,"Red",NA,NA,"Red","Red","Red","Red",5,12.3877730701304
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2016,"Rel_Idx","Red","Red","Amber","Red",NA,NA,"Red","Red","Red","Red",6,13.5146402076861
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2017,"Rel_Idx","Red","Red","Red","Green",NA,NA,"Red","Red","Red","Red",6,8.88873204307607
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2018,"Rel_Idx","Red","Red","Red","Green",NA,NA,"Red","Red","Red","Red",6,7.0928792742275
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2019,"Rel_Idx","Red","Red","Amber",NA,NA,NA,"Red","Red","Red","Red",5,14.8331902217743
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2020,"Rel_Idx","Red","Red","Green",NA,NA,NA,"Red","Red","Red","Red",5,24.3139761216292
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2021,"Rel_Idx","Red","Red","Green",NA,NA,NA,"Red","Red","Red","Red",5,27.2389556463144
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2022,"Rel_Idx","Red","Red","Green",NA,NA,NA,"Red","Red","Red","Red",5,43.7998018099793
+"CK-08","Chinook","Middle Fraser-Fraser Canyon_SP_1.3",2023,"Rel_Idx","Red","Red","Green","Green",NA,NA,"Red","Red","Red","Red",6,69.16372246676
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,152.550194967065
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,171.663047882426
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,171.245709763539
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,111.035469405699
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,118.310220092484
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,110.73914378015
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,119.802688748998
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,91.8789491860723
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2012,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,86.1672691160346
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2013,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,59.476604357236
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2014,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,59.9512119256537
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2015,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,55.4156667646972
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2016,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,39.5262980319657
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2017,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,34.9503714100967
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2018,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,35.1535849428856
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2019,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,42.1578203802045
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,33.1627496510714
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,33.1627496510714
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2022,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,39.1738358888512
+"CK-09","Chinook","Middle Fraser River-Portage_FA_1.3",2023,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,51.5416488757896
+"CK-10","Chinook","Middle Fraser River_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-10","Chinook","Middle Fraser River_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-10","Chinook","Middle Fraser River_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-10","Chinook","Middle Fraser River_SP_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-10","Chinook","Middle Fraser River_SP_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,9493.32679828472
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,7979.02880908723
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6853.28030283594
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6230.57975544538
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,7034.93082994612
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6621.16210018095
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6082.59411902832
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5692.7630729388
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4216.8356412154
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3340.72016685056
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2009,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2955.47564942143
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2010,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,3003.47323499584
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2011,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2773.00847328354
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2980.1361355552
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2998.2201305739
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,4191.13803920747
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,4566.27288429772
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,4461.16959129839
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,4089.83373729956
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,3745.4122396527
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,2161.38446599824
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Amber",NA,NA,NA,NA,NA,NA,2,1971.3734260266
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Green",NA,NA,NA,NA,NA,NA,2,2214.37092268329
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2,2916.61634797683
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2023,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2,3174.74035585683
+"CK-11","Chinook","Middle Fraser River_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-11","Chinook","Middle Fraser River_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-11","Chinook","Middle Fraser River_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-11","Chinook","Middle Fraser River_SU_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-11","Chinook","Middle Fraser River_SU_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,21081.8456113139
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,20948.7468161918
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,20260.6794908983
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,20019.2887618765
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,21999.493593674
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,24965.171789649
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,25111.7685758792
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,24101.7697681647
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,19999.3628785677
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,16311.8105417335
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2009,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,14677.068541554
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2010,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,15016.4087745266
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2011,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,14719.5886087069
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2012,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,14086.6510290246
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,12929.273948852
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2014,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,13696.9544314656
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2015,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,14469.0562506456
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2016,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,12873.7080314053
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,12004.8931247997
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2018,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,10610.448436138
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2019,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,7721.37760168221
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,6317.32539279665
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,6492.35588027038
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2022,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,8561.38995914711
+"CK-11","Chinook","Middle Fraser River_SU_1.3",2023,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,10668.0145185369
+"CK-12","Chinook","Upper Fraser River_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-12","Chinook","Upper Fraser River_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-12","Chinook","Upper Fraser River_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-12","Chinook","Upper Fraser River_SP_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-12","Chinook","Upper Fraser River_SP_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,21096.0471073775
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,18631.1782000889
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,18643.8479084441
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,20300.4306570269
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,22310.7030661066
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,25185.8069223584
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,25043.1455636358
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,23845.7316134644
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,18229.631239147
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,14467.8086423388
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2009,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,14254.8294615999
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2010,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,13088.5938907222
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2011,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,11372.4769145522
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,11274.1984194695
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,11511.2414495316
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2014,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,11411.9473237858
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2015,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,12674.3823525185
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,13826.9775664751
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,13437.3665342953
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,11960.4859651908
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,7342.63602787782
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,7001.54603420413
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,7162.14715084151
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,8804.99161193094
+"CK-12","Chinook","Upper Fraser River_SP_1.3",2023,"Rel_Idx",NA,NA,"Amber","Amber",NA,NA,NA,NA,NA,NA,2,9900.07800633093
+"CK-13","Chinook","South Thompson_SU_0.3",1995,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,7002.93874127631
+"CK-13","Chinook","South Thompson_SU_0.3",1996,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,9079.05606177888
+"CK-13","Chinook","South Thompson_SU_0.3",1997,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,13216.0400322734
+"CK-13","Chinook","South Thompson_SU_0.3",1998,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,26312.4252952914
+"CK-13","Chinook","South Thompson_SU_0.3",1999,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,32593.0094326948
+"CK-13","Chinook","South Thompson_SU_0.3",2000,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,27107.9058045675
+"CK-13","Chinook","South Thompson_SU_0.3",2001,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,28083.4694965657
+"CK-13","Chinook","South Thompson_SU_0.3",2002,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,26627.9398906405
+"CK-13","Chinook","South Thompson_SU_0.3",2003,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,33287.4181847959
+"CK-13","Chinook","South Thompson_SU_0.3",2004,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,41763.21546164
+"CK-13","Chinook","South Thompson_SU_0.3",2005,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,49330.5079004863
+"CK-13","Chinook","South Thompson_SU_0.3",2006,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,60885.8058228694
+"CK-13","Chinook","South Thompson_SU_0.3",2007,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,65166.314444713
+"CK-13","Chinook","South Thompson_SU_0.3",2008,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,76787.6902656687
+"CK-13","Chinook","South Thompson_SU_0.3",2009,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,72298.127830929
+"CK-13","Chinook","South Thompson_SU_0.3",2010,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,66186.3861600454
+"CK-13","Chinook","South Thompson_SU_0.3",2011,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,77534.3573416328
+"CK-13","Chinook","South Thompson_SU_0.3",2012,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,68105.7959788649
+"CK-13","Chinook","South Thompson_SU_0.3",2013,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,75246.3120425715
+"CK-13","Chinook","South Thompson_SU_0.3",2014,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,62209.5569333527
+"CK-13","Chinook","South Thompson_SU_0.3",2015,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,66113.4134212012
+"CK-13","Chinook","South Thompson_SU_0.3",2016,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,78677.1307442789
+"CK-13","Chinook","South Thompson_SU_0.3",2017,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,74457.6181936186
+"CK-13","Chinook","South Thompson_SU_0.3",2018,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,68636.2351005209
+"CK-13","Chinook","South Thompson_SU_0.3",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,69013.1001586787
+"CK-13","Chinook","South Thompson_SU_0.3",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,91770.7389851367
+"CK-13","Chinook","South Thompson_SU_0.3",2021,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,109877.859159099
+"CK-13","Chinook","South Thompson_SU_0.3",2022,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,141524.330777173
+"CK-13","Chinook","South Thompson_SU_0.3",2023,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,200125.388228533
+"CK-14","Chinook","South Thompson_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-14","Chinook","South Thompson_SU_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1219.06875360618
+"CK-14","Chinook","South Thompson_SU_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1301.20640583201
+"CK-14","Chinook","South Thompson_SU_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1081.69468529041
+"CK-14","Chinook","South Thompson_SU_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,888.456132119108
+"CK-14","Chinook","South Thompson_SU_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,661.057205068438
+"CK-14","Chinook","South Thompson_SU_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,554.706193858893
+"CK-14","Chinook","South Thompson_SU_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,509.181552577271
+"CK-14","Chinook","South Thompson_SU_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,670.13216066901
+"CK-14","Chinook","South Thompson_SU_1.3",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,643.242273251517
+"CK-14","Chinook","South Thompson_SU_1.3",2012,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,674.992158109319
+"CK-14","Chinook","South Thompson_SU_1.3",2013,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,716.855931846244
+"CK-14","Chinook","South Thompson_SU_1.3",2014,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,771.866744728771
+"CK-14","Chinook","South Thompson_SU_1.3",2015,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,675.635078733926
+"CK-14","Chinook","South Thompson_SU_1.3",2016,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,613.421333156965
+"CK-14","Chinook","South Thompson_SU_1.3",2017,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,712.263111280605
+"CK-14","Chinook","South Thompson_SU_1.3",2018,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,684.342655033321
+"CK-14","Chinook","South Thompson_SU_1.3",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,677.114954110878
+"CK-14","Chinook","South Thompson_SU_1.3",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,646.953244284511
+"CK-14","Chinook","South Thompson_SU_1.3",2021,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,1017.76299445784
+"CK-14","Chinook","South Thompson_SU_1.3",2022,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,964.59619000792
+"CK-14","Chinook","South Thompson_SU_1.3",2023,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,1012.56956127613
+"CK-15","Chinook","Shuswap River_SU_0.3",1995,"Abs_Abd","Amber","Green","Green","Green",NA,NA,"Amber","Green","Amber","Green",6,20167.7884749811
+"CK-15","Chinook","Shuswap River_SU_0.3",1996,"Abs_Abd","Amber","Green","Green","Green",NA,NA,"Amber","Green","Amber","Green",6,22551.1672708984
+"CK-15","Chinook","Shuswap River_SU_0.3",1997,"Abs_Abd","Amber","Green","Green","Green",NA,NA,"Amber","Green","Amber","Green",6,23547.535016237
+"CK-15","Chinook","Shuswap River_SU_0.3",1998,"Abs_Abd","Amber","Green","Green","Green",NA,NA,"Amber","Green","Amber","Green",6,23210.4201731179
+"CK-15","Chinook","Shuswap River_SU_0.3",1999,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,30177.9878184727
+"CK-15","Chinook","Shuswap River_SU_0.3",2000,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,28150.0595137607
+"CK-15","Chinook","Shuswap River_SU_0.3",2001,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,31663.3116886825
+"CK-15","Chinook","Shuswap River_SU_0.3",2002,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,34914.5753946263
+"CK-15","Chinook","Shuswap River_SU_0.3",2003,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,32948.5988026451
+"CK-15","Chinook","Shuswap River_SU_0.3",2004,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,29319.0287396404
+"CK-15","Chinook","Shuswap River_SU_0.3",2005,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,25450.8498495731
+"CK-15","Chinook","Shuswap River_SU_0.3",2006,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,26477.1978792559
+"CK-15","Chinook","Shuswap River_SU_0.3",2007,"Abs_Abd","Amber","Green","Green","Amber",NA,NA,"Amber","Green","Amber","Green",6,22050.7068167916
+"CK-15","Chinook","Shuswap River_SU_0.3",2008,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,21438.8256525484
+"CK-15","Chinook","Shuswap River_SU_0.3",2009,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,23175.9529868247
+"CK-15","Chinook","Shuswap River_SU_0.3",2010,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,24420.9182704658
+"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,25100.1345011719
+"CK-15","Chinook","Shuswap River_SU_0.3",2012,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,17475.1629746316
+"CK-15","Chinook","Shuswap River_SU_0.3",2013,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,17374.1953506346
+"CK-15","Chinook","Shuswap River_SU_0.3",2014,"Abs_Abd","Amber","Green","Green","Amber",NA,NA,"Amber","Green","Amber","Green",6,15227.0496960791
+"CK-15","Chinook","Shuswap River_SU_0.3",2015,"Abs_Abd","Amber","Green","Green","Green",NA,NA,"Amber","Green","Amber","Green",6,18480.0275902548
+"CK-15","Chinook","Shuswap River_SU_0.3",2016,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,21562.2767394068
+"CK-15","Chinook","Shuswap River_SU_0.3",2017,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,18477.305838672
+"CK-15","Chinook","Shuswap River_SU_0.3",2018,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,14429.5221770447
+"CK-15","Chinook","Shuswap River_SU_0.3",2019,"Abs_Abd","Amber","Green","Amber","Amber",NA,NA,"Amber","Green","Amber","Green",6,13087.5280665901
+"CK-15","Chinook","Shuswap River_SU_0.3",2020,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,18072.2697201844
+"CK-15","Chinook","Shuswap River_SU_0.3",2021,"Abs_Abd","Amber","Green","Green","Green",NA,NA,"Amber","Green","Amber","Green",6,22313.0942434021
+"CK-15","Chinook","Shuswap River_SU_0.3",2022,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,26703.9804021744
+"CK-15","Chinook","Shuswap River_SU_0.3",2023,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,34878.8050252929
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1998,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,114.637458879895
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",1999,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,138.559576944913
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2000,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,113.904256420481
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2001,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,144.99812755942
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2002,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,233.518962603749
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2003,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,215.877010532923
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2004,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,251.007921086074
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2005,"Rel_Idx","Green","Red",NA,NA,NA,NA,"Green","Red","Green","Red",4,198.633448117269
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2006,"Rel_Idx","Green","Red",NA,"Green",NA,NA,"Green","Red","Green","Red",5,199.772347513258
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2007,"Rel_Idx","Red","Red",NA,"Red",NA,NA,"Red","Red","Red","Red",5,16.6549290389025
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2008,"Rel_Idx","Red","Red",NA,"Red",NA,NA,"Red","Red","Red","Red",5,13.7380182320013
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2009,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,8.62770863051873
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2010,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,8.12362806857866
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2011,"Rel_Idx","Red","Red","Amber","Red",NA,NA,"Red","Red","Red","Red",6,43.203857825429
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2012,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,28.2118688249982
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2013,"Rel_Idx","Red","Red","Amber","Red",NA,NA,"Red","Red","Red","Red",6,45.8301206840219
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2014,"Rel_Idx","Red","Red","Amber","Red",NA,NA,"Red","Red","Red","Red",6,38.0523047972635
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2015,"Rel_Idx","Amber","Red","Green","Green",NA,NA,"Amber","Red","Amber","Red",6,78.3788871713425
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2016,"Rel_Idx","Red","Red","Green","Green",NA,NA,"Red","Red","Red","Red",6,64.5376813403213
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2017,"Rel_Idx","Red","Red","Amber","Green",NA,NA,"Red","Red","Red","Red",6,35.0684794772696
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2018,"Rel_Idx","Red","Red","Red","Green",NA,NA,"Red","Red","Red","Red",6,16.0403191689608
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2019,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,1.46427410640372
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2020,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,1.01430349156035
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2021,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,0.157963115283319
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2022,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,0.246704354016916
+"CK-16","Chinook","South Thompson-Bessette Creek_SU_1.2",2023,"Rel_Idx","Red","Red","Red","Red",NA,NA,"Red","Red","Red","Red",6,1.25929266219368
+"CK-17","Chinook","Lower Thompson_SP_1.2",1995,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,11599.7050215088
+"CK-17","Chinook","Lower Thompson_SP_1.2",1996,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,15009.6557687234
+"CK-17","Chinook","Lower Thompson_SP_1.2",1997,"Abs_Abd","Green","Green",NA,"Green",NA,NA,"Green","Green","Green","Green",5,17652.9167792651
+"CK-17","Chinook","Lower Thompson_SP_1.2",1998,"Abs_Abd","Green","Green",NA,"Green",NA,NA,"Green","Green","Green","Green",5,11992.2158980331
+"CK-17","Chinook","Lower Thompson_SP_1.2",1999,"Abs_Abd","Green","Green",NA,"Green",NA,NA,"Green","Green","Green","Green",5,10682.0913791623
+"CK-17","Chinook","Lower Thompson_SP_1.2",2000,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,8840.02404810774
+"CK-17","Chinook","Lower Thompson_SP_1.2",2001,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,7965.68480430786
+"CK-17","Chinook","Lower Thompson_SP_1.2",2002,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,11642.6466857004
+"CK-17","Chinook","Lower Thompson_SP_1.2",2003,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,15927.1816733101
+"CK-17","Chinook","Lower Thompson_SP_1.2",2004,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,17584.1537410601
+"CK-17","Chinook","Lower Thompson_SP_1.2",2005,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,15353.8664825105
+"CK-17","Chinook","Lower Thompson_SP_1.2",2006,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,12523.4841138717
+"CK-17","Chinook","Lower Thompson_SP_1.2",2007,"Abs_Abd","Green","Amber","Green","Red",NA,NA,"Green","Amber","Green","Amber",6,7086.63604941868
+"CK-17","Chinook","Lower Thompson_SP_1.2",2008,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,6256.58525769304
+"CK-17","Chinook","Lower Thompson_SP_1.2",2009,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,4399.14770874879
+"CK-17","Chinook","Lower Thompson_SP_1.2",2010,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,4154.36294925757
+"CK-17","Chinook","Lower Thompson_SP_1.2",2011,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,4896.31445696085
+"CK-17","Chinook","Lower Thompson_SP_1.2",2012,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,4730.124417558
+"CK-17","Chinook","Lower Thompson_SP_1.2",2013,"Abs_Abd","Green","Amber","Green","Red",NA,NA,"Green","Amber","Green","Amber",6,6005.09470382336
+"CK-17","Chinook","Lower Thompson_SP_1.2",2014,"Abs_Abd","Green","Amber","Green","Red",NA,NA,"Green","Amber","Green","Amber",6,8042.271081156
+"CK-17","Chinook","Lower Thompson_SP_1.2",2015,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,9656.05955089967
+"CK-17","Chinook","Lower Thompson_SP_1.2",2016,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,9217.41790805911
+"CK-17","Chinook","Lower Thompson_SP_1.2",2017,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,8853.79408422585
+"CK-17","Chinook","Lower Thompson_SP_1.2",2018,"Abs_Abd","Green","Amber","Amber","Amber",NA,NA,"Green","Amber","Green","Amber",6,3928.8681215172
+"CK-17","Chinook","Lower Thompson_SP_1.2",2019,"Abs_Abd","Amber","Amber","Red","Red",NA,NA,"Amber","Amber","Amber","Amber",6,3074.58879167474
+"CK-17","Chinook","Lower Thompson_SP_1.2",2020,"Abs_Abd","Amber","Amber","Red","Amber",NA,NA,"Amber","Amber","Amber","Amber",6,2983.53384807298
+"CK-17","Chinook","Lower Thompson_SP_1.2",2021,"Abs_Abd","Amber","Amber","Red","Red",NA,NA,"Amber","Amber","Amber","Amber",6,2814.72803524285
+"CK-17","Chinook","Lower Thompson_SP_1.2",2022,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,4544.21481309194
+"CK-17","Chinook","Lower Thompson_SP_1.2",2023,"Abs_Abd","Green","Amber","Green","Red",NA,NA,"Green","Amber","Green","Amber",6,5840.53605230708
+"CK-18","Chinook","North Thompson_SP_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-18","Chinook","North Thompson_SP_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,877.174935782918
+"CK-18","Chinook","North Thompson_SP_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,834.821127347599
+"CK-18","Chinook","North Thompson_SP_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,878.400336024206
+"CK-18","Chinook","North Thompson_SP_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,632.617861964809
+"CK-18","Chinook","North Thompson_SP_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,509.580688476715
+"CK-18","Chinook","North Thompson_SP_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,353.854769949868
+"CK-18","Chinook","North Thompson_SP_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,323.270537428583
+"CK-18","Chinook","North Thompson_SP_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,239.497205995503
+"CK-18","Chinook","North Thompson_SP_1.3",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,220.5424781295
+"CK-18","Chinook","North Thompson_SP_1.3",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,209.745965325882
+"CK-18","Chinook","North Thompson_SP_1.3",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,219.825712833407
+"CK-18","Chinook","North Thompson_SP_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,202.788126809899
+"CK-18","Chinook","North Thompson_SP_1.3",2014,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,199.524415986452
+"CK-18","Chinook","North Thompson_SP_1.3",2015,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,171.079308905517
+"CK-18","Chinook","North Thompson_SP_1.3",2016,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,151.547647891682
+"CK-18","Chinook","North Thompson_SP_1.3",2017,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,130.273341063515
+"CK-18","Chinook","North Thompson_SP_1.3",2018,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,107.557845335757
+"CK-18","Chinook","North Thompson_SP_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,133.862088345551
+"CK-18","Chinook","North Thompson_SP_1.3",2020,"Rel_Idx",NA,NA,"Amber","Amber",NA,NA,NA,NA,NA,NA,2,181.292059065547
+"CK-18","Chinook","North Thompson_SP_1.3",2021,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2,199.530915823164
+"CK-18","Chinook","North Thompson_SP_1.3",2022,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,263.42555497613
+"CK-18","Chinook","North Thompson_SP_1.3",2023,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,393.552891201863
+"CK-19","Chinook","North Thompson_SU_1.3",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-19","Chinook","North Thompson_SU_1.3",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-19","Chinook","North Thompson_SU_1.3",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-19","Chinook","North Thompson_SU_1.3",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-19","Chinook","North Thompson_SU_1.3",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CK-19","Chinook","North Thompson_SU_1.3",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,7322.46496297196
+"CK-19","Chinook","North Thompson_SU_1.3",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6366.0691736887
+"CK-19","Chinook","North Thompson_SU_1.3",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6020.02325694298
+"CK-19","Chinook","North Thompson_SU_1.3",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5941.02852955747
+"CK-19","Chinook","North Thompson_SU_1.3",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,6100.61040591371
+"CK-19","Chinook","North Thompson_SU_1.3",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5698.44683398544
+"CK-19","Chinook","North Thompson_SU_1.3",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,5678.18813991623
+"CK-19","Chinook","North Thompson_SU_1.3",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,4490.18691851293
+"CK-19","Chinook","North Thompson_SU_1.3",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3930.58969037266
+"CK-19","Chinook","North Thompson_SU_1.3",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,3963.36582058961
+"CK-19","Chinook","North Thompson_SU_1.3",2010,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,3185.20183172569
+"CK-19","Chinook","North Thompson_SU_1.3",2011,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2537.88888107011
+"CK-19","Chinook","North Thompson_SU_1.3",2012,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2606.64130842405
+"CK-19","Chinook","North Thompson_SU_1.3",2013,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2379.70676203657
+"CK-19","Chinook","North Thompson_SU_1.3",2014,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,2071.52641191417
+"CK-19","Chinook","North Thompson_SU_1.3",2015,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2731.34529252979
+"CK-19","Chinook","North Thompson_SU_1.3",2016,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2440.39921637829
+"CK-19","Chinook","North Thompson_SU_1.3",2017,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,2204.78652813345
+"CK-19","Chinook","North Thompson_SU_1.3",2018,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,1699.1949963463
+"CK-19","Chinook","North Thompson_SU_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,1348.85496427711
+"CK-19","Chinook","North Thompson_SU_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,1261.78377098357
+"CK-19","Chinook","North Thompson_SU_1.3",2021,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,1735.78006364377
+"CK-19","Chinook","North Thompson_SU_1.3",2022,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2,2310.81472415666
+"CK-19","Chinook","North Thompson_SU_1.3",2023,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,3391.97338492836
+"CM-02","Chum","Lower Fraser Chum",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",1999,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",2000,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",2001,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",2002,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",2003,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",2004,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CM-02","Chum","Lower Fraser Chum",2005,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1591272.44819364
+"CM-02","Chum","Lower Fraser Chum",2006,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1531859.1745601
+"CM-02","Chum","Lower Fraser Chum",2007,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1397193.71232678
+"CM-02","Chum","Lower Fraser Chum",2008,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,1083913.99185427
+"CM-02","Chum","Lower Fraser Chum",2009,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,835979.365871752
+"CM-02","Chum","Lower Fraser Chum",2010,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,620107.626885949
+"CM-02","Chum","Lower Fraser Chum",2011,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,616772.732859545
+"CM-02","Chum","Lower Fraser Chum",2012,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,678980.134786537
+"CM-02","Chum","Lower Fraser Chum",2013,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,819508.33302912
+"CM-02","Chum","Lower Fraser Chum",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,967577.534235596
+"CM-02","Chum","Lower Fraser Chum",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,939043.230325393
+"CM-02","Chum","Lower Fraser Chum",2016,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,1024480.50209249
+"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,940721.844530156
+"CM-02","Chum","Lower Fraser Chum",2018,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1,841146.919341077
+"CM-02","Chum","Lower Fraser Chum",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,639262.924277177
+"CM-02","Chum","Lower Fraser Chum",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,471046.252561571
+"CM-02","Chum","Lower Fraser Chum",2021,"Rel_Idx",NA,NA,"Amber","Amber",NA,NA,NA,NA,NA,NA,2,449957.730377029
+"CM-02","Chum","Lower Fraser Chum",2022,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,502648.967697493
+"CM-02","Chum","Lower Fraser Chum",2023,"Rel_Idx",NA,NA,"Amber","Red",NA,NA,NA,NA,NA,NA,2,601015.215034601
+"CO-48","Coho","Middle Fraser",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-48","Coho","Middle Fraser",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-48","Coho","Middle Fraser",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-48","Coho","Middle Fraser",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-48","Coho","Middle Fraser",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-48","Coho","Middle Fraser",2000,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3110.58934265413
+"CO-48","Coho","Middle Fraser",2001,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3321.22286398679
+"CO-48","Coho","Middle Fraser",2002,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4509.46097067664
+"CO-48","Coho","Middle Fraser",2003,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4484.86980917762
+"CO-48","Coho","Middle Fraser",2004,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4178.89318084991
+"CO-48","Coho","Middle Fraser",2005,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3411.04850927995
+"CO-48","Coho","Middle Fraser",2006,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,2384.38658796537
+"CO-48","Coho","Middle Fraser",2007,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3049.52169018256
+"CO-48","Coho","Middle Fraser",2008,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,2666.83920936342
+"CO-48","Coho","Middle Fraser",2009,"Abs_Abd","Green","Amber",NA,"Amber",NA,NA,"Green","Amber","Green","Amber",5,3227.43497125302
+"CO-48","Coho","Middle Fraser",2010,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,2510.8852808621
+"CO-48","Coho","Middle Fraser",2011,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,3486.65144838857
+"CO-48","Coho","Middle Fraser",2012,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,5078.75995007693
+"CO-48","Coho","Middle Fraser",2013,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,6871.99987712562
+"CO-48","Coho","Middle Fraser",2014,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,6447.1635464776
+"CO-48","Coho","Middle Fraser",2015,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,3706.28935592018
+"CO-48","Coho","Middle Fraser",2016,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,3904.77797989366
+"CO-48","Coho","Middle Fraser",2017,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,4037.34216846112
+"CO-48","Coho","Middle Fraser",2018,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,5564.00153049852
+"CO-48","Coho","Middle Fraser",2019,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,3382.51340381776
+"CO-48","Coho","Middle Fraser",2020,"Abs_Abd","Green","Amber","Green","Amber",NA,"Green","Green","Amber","Green","Amber",6,4239.75043861626
+"CO-48","Coho","Middle Fraser",2021,"Abs_Abd","Green","Amber","Green","Amber",NA,"Green","Green","Amber","Green","Amber",6,6286.83949255997
+"CO-48","Coho","Middle Fraser",2022,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,10815.697555278
+"CO-48","Coho","Middle Fraser",2023,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,13902.7024669729
+"CO-05","Coho","Fraser Canyon",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-05","Coho","Fraser Canyon",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-05","Coho","Fraser Canyon",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-05","Coho","Fraser Canyon",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-05","Coho","Fraser Canyon",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-05","Coho","Fraser Canyon",2000,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3932.36600273017
+"CO-05","Coho","Fraser Canyon",2001,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4051.40266009567
+"CO-05","Coho","Fraser Canyon",2002,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3957.2438507379
+"CO-05","Coho","Fraser Canyon",2003,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4698.83824407914
+"CO-05","Coho","Fraser Canyon",2004,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4672.72425556552
+"CO-05","Coho","Fraser Canyon",2005,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3928.9297660922
+"CO-05","Coho","Fraser Canyon",2006,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,2775.65313804033
+"CO-05","Coho","Fraser Canyon",2007,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,2152.61909444777
+"CO-05","Coho","Fraser Canyon",2008,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,1710.29008108492
+"CO-05","Coho","Fraser Canyon",2009,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,1930.44174126197
+"CO-05","Coho","Fraser Canyon",2010,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,1801.77031674243
+"CO-05","Coho","Fraser Canyon",2011,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,2540.21326892579
+"CO-05","Coho","Fraser Canyon",2012,"Abs_Abd","Green","Amber","Green","Red",NA,NA,"Green","Amber","Green","Amber",6,3315.96700257407
+"CO-05","Coho","Fraser Canyon",2013,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,4454.31665883533
+"CO-05","Coho","Fraser Canyon",2014,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,3073.85475446657
+"CO-05","Coho","Fraser Canyon",2015,"Abs_Abd","Green","Amber","Red","Green",NA,"Amber","Green","Amber","Green","Amber",6,1258.09163701176
+"CO-05","Coho","Fraser Canyon",2016,"Abs_Abd","Amber","Red","Red","Red",NA,"Red","Amber","Red","Amber","Red",6,753.56487170277
+"CO-05","Coho","Fraser Canyon",2017,"Abs_Abd","Amber","Red","Red","Red",NA,"Red","Amber","Red","Amber","Red",6,877.891923745936
+"CO-05","Coho","Fraser Canyon",2018,"Abs_Abd","Green","Amber","Green","Red",NA,"Red","Green","Amber","Green","Amber",6,2114.12562671855
+"CO-05","Coho","Fraser Canyon",2019,"Abs_Abd","Green","Amber","Green","Red",NA,"Red","Green","Amber","Green","Amber",6,2983.13504685334
+"CO-05","Coho","Fraser Canyon",2020,"Abs_Abd","Green","Amber","Green","Amber",NA,"Green","Green","Amber","Green","Amber",6,4398.36073377147
+"CO-05","Coho","Fraser Canyon",2021,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,3449.7830355191
+"CO-05","Coho","Fraser Canyon",2022,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,4324.56077404444
+"CO-05","Coho","Fraser Canyon",2023,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,4450.84795691331
+"CO-07","Coho","Lower Thompson",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-07","Coho","Lower Thompson",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-07","Coho","Lower Thompson",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-07","Coho","Lower Thompson",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-07","Coho","Lower Thompson",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-07","Coho","Lower Thompson",2000,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,1179.6361973381
+"CO-07","Coho","Lower Thompson",2001,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4,2557.81085638656
+"CO-07","Coho","Lower Thompson",2002,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3946.82568366217
+"CO-07","Coho","Lower Thompson",2003,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3624.69030727262
+"CO-07","Coho","Lower Thompson",2004,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4,2986.47040844298
+"CO-07","Coho","Lower Thompson",2005,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,2051.88705874973
+"CO-07","Coho","Lower Thompson",2006,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,1747.1906161443
+"CO-07","Coho","Lower Thompson",2007,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4,2628.41135148187
+"CO-07","Coho","Lower Thompson",2008,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3194.30657877991
+"CO-07","Coho","Lower Thompson",2009,"Abs_Abd","Green","Amber",NA,"Green",NA,NA,"Green","Amber","Green","Amber",5,4907.54340936128
+"CO-07","Coho","Lower Thompson",2010,"Abs_Abd","Green","Amber",NA,"Green",NA,NA,"Green","Amber","Green","Amber",5,5277.06332585196
+"CO-07","Coho","Lower Thompson",2011,"Abs_Abd","Green","Amber",NA,"Green",NA,NA,"Green","Amber","Green","Amber",5,6513.50025310631
+"CO-07","Coho","Lower Thompson",2012,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,9113.92744963265
+"CO-07","Coho","Lower Thompson",2013,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,9154.79398515279
+"CO-07","Coho","Lower Thompson",2014,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,9177.13907365194
+"CO-07","Coho","Lower Thompson",2015,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,6948.81750045366
+"CO-07","Coho","Lower Thompson",2016,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,8050.78169897038
+"CO-07","Coho","Lower Thompson",2017,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,6608.85810845155
+"CO-07","Coho","Lower Thompson",2018,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,7442.67221234677
+"CO-07","Coho","Lower Thompson",2019,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,6341.2082893794
+"CO-07","Coho","Lower Thompson",2020,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,10269.2682324469
+"CO-07","Coho","Lower Thompson",2021,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,14099.1154743353
+"CO-07","Coho","Lower Thompson",2022,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,16203.4029297668
+"CO-07","Coho","Lower Thompson",2023,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,13948.9874864456
+"CO-09","Coho","North Thompson",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-09","Coho","North Thompson",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-09","Coho","North Thompson",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-09","Coho","North Thompson",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-09","Coho","North Thompson",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-09","Coho","North Thompson",2000,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,8595.55293571895
+"CO-09","Coho","North Thompson",2001,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,12012.3921862936
+"CO-09","Coho","North Thompson",2002,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,14799.234033027
+"CO-09","Coho","North Thompson",2003,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,14927.9491224366
+"CO-09","Coho","North Thompson",2004,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,11009.374417658
+"CO-09","Coho","North Thompson",2005,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,6679.54249558904
+"CO-09","Coho","North Thompson",2006,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,5470.99950074343
+"CO-09","Coho","North Thompson",2007,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,7295.34358754793
+"CO-09","Coho","North Thompson",2008,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,6867.06151542707
+"CO-09","Coho","North Thompson",2009,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,9340.00383389956
+"CO-09","Coho","North Thompson",2010,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,7324.05875708491
+"CO-09","Coho","North Thompson",2011,"Abs_Abd","Green","Amber",NA,"Red",NA,NA,"Green","Amber","Green","Amber",5,9650.54995345535
+"CO-09","Coho","North Thompson",2012,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,12384.2194099214
+"CO-09","Coho","North Thompson",2013,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,13723.2435953578
+"CO-09","Coho","North Thompson",2014,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,11707.5996202296
+"CO-09","Coho","North Thompson",2015,"Abs_Abd","Green","Amber","Amber","Green",NA,"Green","Green","Amber","Green","Amber",6,6355.10160696406
+"CO-09","Coho","North Thompson",2016,"Abs_Abd","Green","Amber","Amber","Green",NA,"Amber","Green","Amber","Green","Amber",6,6477.24672245105
+"CO-09","Coho","North Thompson",2017,"Abs_Abd","Green","Amber","Green","Green",NA,"Amber","Green","Amber","Green","Amber",6,8511.45668818356
+"CO-09","Coho","North Thompson",2018,"Abs_Abd","Green","Green","Green","Green",NA,"Amber","Green","Green","Green","Green",6,13046.5244341163
+"CO-09","Coho","North Thompson",2019,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,12603.1333477824
+"CO-09","Coho","North Thompson",2020,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,16388.8270053204
+"CO-09","Coho","North Thompson",2021,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,22248.8729929717
+"CO-09","Coho","North Thompson",2022,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,23775.6313531949
+"CO-09","Coho","North Thompson",2023,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,23387.9294361989
+"CO-08","Coho","South Thompson",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-08","Coho","South Thompson",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-08","Coho","South Thompson",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-08","Coho","South Thompson",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-08","Coho","South Thompson",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-08","Coho","South Thompson",2000,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3713.50759178414
+"CO-08","Coho","South Thompson",2001,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4873.75407342978
+"CO-08","Coho","South Thompson",2002,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,6963.75215167765
+"CO-08","Coho","South Thompson",2003,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,6914.13265351135
+"CO-08","Coho","South Thompson",2004,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,7582.91623022658
+"CO-08","Coho","South Thompson",2005,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,4552.25754987466
+"CO-08","Coho","South Thompson",2006,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3899.45067871237
+"CO-08","Coho","South Thompson",2007,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,3566.18066377972
+"CO-08","Coho","South Thompson",2008,"Abs_Abd","Green","Amber",NA,NA,NA,NA,"Green","Amber","Green","Amber",4,5281.0760022037
+"CO-08","Coho","South Thompson",2009,"Abs_Abd","Green","Amber",NA,"Green",NA,NA,"Green","Amber","Green","Amber",5,6454.30815784872
+"CO-08","Coho","South Thompson",2010,"Abs_Abd","Green","Amber",NA,"Green",NA,NA,"Green","Amber","Green","Amber",5,5775.46715795131
+"CO-08","Coho","South Thompson",2011,"Abs_Abd","Green","Amber",NA,"Amber",NA,NA,"Green","Amber","Green","Amber",5,4838.55690604598
+"CO-08","Coho","South Thompson",2012,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,7335.1265776179
+"CO-08","Coho","South Thompson",2013,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,8245.56601818108
+"CO-08","Coho","South Thompson",2014,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,6713.77015108057
+"CO-08","Coho","South Thompson",2015,"Abs_Abd","Green","Amber","Amber","Green",NA,"Green","Green","Amber","Green","Amber",6,3560.97972666825
+"CO-08","Coho","South Thompson",2016,"Abs_Abd","Green","Amber","Amber","Green",NA,"Amber","Green","Amber","Green","Amber",6,3712.54903464806
+"CO-08","Coho","South Thompson",2017,"Abs_Abd","Green","Amber","Green","Red",NA,"Red","Green","Amber","Green","Amber",6,3869.24161366163
+"CO-08","Coho","South Thompson",2018,"Abs_Abd","Green","Amber","Green","Red",NA,"Amber","Green","Amber","Green","Amber",6,5528.31109853643
+"CO-08","Coho","South Thompson",2019,"Abs_Abd","Green","Amber","Green","Red",NA,"Amber","Green","Amber","Green","Amber",6,4526.97857235197
+"CO-08","Coho","South Thompson",2020,"Abs_Abd","Green","Amber","Green","Amber",NA,"Green","Green","Amber","Green","Amber",6,7202.69759987265
+"CO-08","Coho","South Thompson",2021,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,9751.72687173468
+"CO-08","Coho","South Thompson",2022,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,9830.41553611078
+"CO-08","Coho","South Thompson",2023,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,9885.96182077125
+"CO-47","Coho","Lower Fraser",1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-47","Coho","Lower Fraser",2023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"CO-04","Coho","Lillooet",2023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"PKO-01","Pink","Fraser Pink",1995,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,7174584.00000001
+"PKO-01","Pink","Fraser Pink",1997,"Rel_Idx","Amber",NA,"Green","Red",NA,NA,"Amber",NA,"Amber",NA,4,2842108
+"PKO-01","Pink","Fraser Pink",1999,"Rel_Idx","Amber",NA,"Green","Red",NA,NA,"Amber",NA,"Amber",NA,4,3444982
+"PKO-01","Pink","Fraser Pink",2001,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,19813620
+"PKO-01","Pink","Fraser Pink",2003,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,22181030
+"PKO-01","Pink","Fraser Pink",2005,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,8809624
+"PKO-01","Pink","Fraser Pink",2007,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,7650051.99999999
+"PKO-01","Pink","Fraser Pink",2009,"Rel_Idx","Green",NA,"Green","Red",NA,NA,"Green",NA,"Green",NA,4,15428836
+"PKO-01","Pink","Fraser Pink",2011,"Rel_Idx","Green",NA,"Green","Amber",NA,NA,"Green",NA,"Green",NA,4,12784507.74
+"PKO-01","Pink","Fraser Pink",2013,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,9344490.07800001
+"PKO-01","Pink","Fraser Pink",2015,"Rel_Idx","Green",NA,"Green","Red",NA,NA,"Green",NA,"Green",NA,4,5315845
+"PKO-01","Pink","Fraser Pink",2017,"Rel_Idx","Amber",NA,"Green","Red",NA,NA,"Amber",NA,"Amber",NA,4,3392159
+"PKO-01","Pink","Fraser Pink",2019,"Rel_Idx","Green",NA,"Green","Red",NA,NA,"Green",NA,"Green",NA,4,8307419.479
+"PKO-01","Pink","Fraser Pink",2021,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,7827444.56800001
+"PKO-01","Pink","Fraser Pink",2023,"Rel_Idx","Green",NA,"Green","Green",NA,NA,"Green",NA,"Green",NA,4,9575759.99999999
+"SEL-07-01","Sockeye","Bowron_ES",1995,"Abs_Abd","Red","Amber","Amber","Red",NA,"Red","Red","Amber","Red","Amber",6,4373.48009874312
+"SEL-07-01","Sockeye","Bowron_ES",1996,"Abs_Abd","Amber","Amber","Amber","Red",NA,"Red","Amber","Amber","Amber","Amber",6,5841.31751507642
+"SEL-07-01","Sockeye","Bowron_ES",1997,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,8269.22695325682
+"SEL-07-01","Sockeye","Bowron_ES",1998,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,8439.03215195701
+"SEL-07-01","Sockeye","Bowron_ES",1999,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6240.04006780855
+"SEL-07-01","Sockeye","Bowron_ES",2000,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6942.25744538754
+"SEL-07-01","Sockeye","Bowron_ES",2001,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,7201.05913673889
+"SEL-07-01","Sockeye","Bowron_ES",2002,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,8311.65178675943
+"SEL-07-01","Sockeye","Bowron_ES",2003,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,7702.83560524898
+"SEL-07-01","Sockeye","Bowron_ES",2004,"Abs_Abd","Red","Amber","Green","Green",NA,"Green","Red","Amber","Red","Amber",6,4009.29036766521
+"SEL-07-01","Sockeye","Bowron_ES",2005,"Abs_Abd","Red","Amber","Green","Green",NA,"Amber","Red","Amber","Red","Amber",6,3001.86633549093
+"SEL-07-01","Sockeye","Bowron_ES",2006,"Abs_Abd","Red","Amber","Amber","Red",NA,"Red","Red","Amber","Red","Amber",6,1927.0922289153
+"SEL-07-01","Sockeye","Bowron_ES",2007,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1483.19804933128
+"SEL-07-01","Sockeye","Bowron_ES",2008,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1421.7359616771
+"SEL-07-01","Sockeye","Bowron_ES",2009,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1412.86008084696
+"SEL-07-01","Sockeye","Bowron_ES",2010,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,2184.79769142453
+"SEL-07-01","Sockeye","Bowron_ES",2011,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,2555.45839298013
+"SEL-07-01","Sockeye","Bowron_ES",2012,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1343.03752054602
+"SEL-07-01","Sockeye","Bowron_ES",2013,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1579.17981461111
+"SEL-07-01","Sockeye","Bowron_ES",2014,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1716.02704101389
+"SEL-07-01","Sockeye","Bowron_ES",2015,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1655.61213175876
+"SEL-07-01","Sockeye","Bowron_ES",2016,"Abs_Abd","Red","Amber","Red","Green",NA,"Red","Red","Amber","Red","Amber",6,2065.75877649436
+"SEL-07-01","Sockeye","Bowron_ES",2017,"Abs_Abd","Red","Amber","Red","Green",NA,"Red","Red","Amber","Red","Amber",6,1083.40763793375
+"SEL-07-01","Sockeye","Bowron_ES",2018,"Abs_Abd","Red","Amber","Red","Green",NA,"Red","Red","Amber","Red","Amber",6,1000.39273414402
+"SEL-07-01","Sockeye","Bowron_ES",2019,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,275.880235064546
+"SEL-07-01","Sockeye","Bowron_ES",2020,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,343.57866560535
+"SEL-07-01","Sockeye","Bowron_ES",2021,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,646.832503531879
+"SEL-07-01","Sockeye","Bowron_ES",2022,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,506.78867208349
+"SEL-07-01","Sockeye","Bowron_ES",2023,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1695.90407194497
+"SEL-06-11","Sockeye","Seton_L",1995,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,7697.94665187166
+"SEL-06-11","Sockeye","Seton_L",1996,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,7879.21531236501
+"SEL-06-11","Sockeye","Seton_L",1997,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6436.4531304223
+"SEL-06-11","Sockeye","Seton_L",1998,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,8115.90966250355
+"SEL-06-11","Sockeye","Seton_L",1999,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,7049.89734026339
+"SEL-06-11","Sockeye","Seton_L",2000,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,5601.45198127231
+"SEL-06-11","Sockeye","Seton_L",2001,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,4224.01917081837
+"SEL-06-11","Sockeye","Seton_L",2002,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,3796.53489996227
+"SEL-06-11","Sockeye","Seton_L",2003,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,3931.9232894951
+"SEL-06-11","Sockeye","Seton_L",2004,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,4015.66053846388
+"SEL-06-11","Sockeye","Seton_L",2005,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,5753.58705445999
+"SEL-06-11","Sockeye","Seton_L",2006,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,6011.40482993436
+"SEL-06-11","Sockeye","Seton_L",2007,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,4642.8097277266
+"SEL-06-11","Sockeye","Seton_L",2008,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,2333.175663437
+"SEL-06-11","Sockeye","Seton_L",2009,"Abs_Abd","Red","Amber","Green","Red",NA,"Amber","Red","Amber","Red","Amber",6,1397.73322399275
+"SEL-06-11","Sockeye","Seton_L",2010,"Abs_Abd","Red","Amber","Amber","Red",NA,"Red","Red","Amber","Red","Amber",6,1790.53850308321
+"SEL-06-11","Sockeye","Seton_L",2011,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1518.7792356057
+"SEL-06-11","Sockeye","Seton_L",2012,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1128.28409029908
+"SEL-06-11","Sockeye","Seton_L",2013,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1643.46680476815
+"SEL-06-11","Sockeye","Seton_L",2014,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1347.72700751431
+"SEL-06-11","Sockeye","Seton_L",2015,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,599.422027593972
+"SEL-06-11","Sockeye","Seton_L",2016,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,678.334116716389
+"SEL-06-11","Sockeye","Seton_L",2017,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,421.124604999067
+"SEL-06-11","Sockeye","Seton_L",2018,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,476.784026725488
+"SEL-06-11","Sockeye","Seton_L",2019,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,940.009915823947
+"SEL-06-11","Sockeye","Seton_L",2020,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,785.586423872608
+"SEL-06-11","Sockeye","Seton_L",2021,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1013.85007741005
+"SEL-06-11","Sockeye","Seton_L",2022,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,858.097856147303
+"SEL-06-11","Sockeye","Seton_L",2023,"Abs_Abd","Red","Amber","Red","Green",NA,"Red","Red","Amber","Red","Amber",6,1367.99997689834
+"SEL-03-04","Sockeye","Harrison_US_L",1995,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,49099.8582854971
+"SEL-03-04","Sockeye","Harrison_US_L",1996,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,47166.1023165388
+"SEL-03-04","Sockeye","Harrison_US_L",1997,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,33883.3393108479
+"SEL-03-04","Sockeye","Harrison_US_L",1998,"Abs_Abd","Amber","Green","Green","Amber",NA,"Amber","Amber","Green","Amber","Green",6,32330.8292856285
+"SEL-03-04","Sockeye","Harrison_US_L",1999,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6,32994.0698629902
+"SEL-03-04","Sockeye","Harrison_US_L",2000,"Abs_Abd","Amber","Green","Green","Amber",NA,"Amber","Amber","Green","Amber","Green",6,18957.5212655932
+"SEL-03-04","Sockeye","Harrison_US_L",2001,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,16858.0768306666
+"SEL-03-04","Sockeye","Harrison_US_L",2002,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,18388.7640112543
+"SEL-03-04","Sockeye","Harrison_US_L",2003,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,21568.0720576237
+"SEL-03-04","Sockeye","Harrison_US_L",2004,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,31956.4942012046
+"SEL-03-04","Sockeye","Harrison_US_L",2005,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,42831.1068568369
+"SEL-03-04","Sockeye","Harrison_US_L",2006,"Abs_Abd","Amber","Green","Green","Amber",NA,"Amber","Amber","Green","Amber","Green",6,32261.758556695
+"SEL-03-04","Sockeye","Harrison_US_L",2007,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6,29495.6041225757
+"SEL-03-04","Sockeye","Harrison_US_L",2008,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6,13777.6971667196
+"SEL-03-04","Sockeye","Harrison_US_L",2009,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,12206.4983586831
+"SEL-03-04","Sockeye","Harrison_US_L",2010,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,14361.6049962715
+"SEL-03-04","Sockeye","Harrison_US_L",2011,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,16374.679800788
+"SEL-03-04","Sockeye","Harrison_US_L",2012,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,14527.354256879
+"SEL-03-04","Sockeye","Harrison_US_L",2013,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,15017.452153582
+"SEL-03-04","Sockeye","Harrison_US_L",2014,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,12323.6428763516
+"SEL-03-04","Sockeye","Harrison_US_L",2015,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,5428.38145003363
+"SEL-03-04","Sockeye","Harrison_US_L",2016,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,4061.59976337406
+"SEL-03-04","Sockeye","Harrison_US_L",2017,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,4031.72247186863
+"SEL-03-04","Sockeye","Harrison_US_L",2018,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,3691.3658733946
+"SEL-03-04","Sockeye","Harrison_US_L",2019,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,3604.05032253513
+"SEL-03-04","Sockeye","Harrison_US_L",2020,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,2635.16987787225
+"SEL-03-04","Sockeye","Harrison_US_L",2021,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,3312.34067010685
+"SEL-03-04","Sockeye","Harrison_US_L",2022,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,4470.88162024178
+"SEL-03-04","Sockeye","Harrison_US_L",2023,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,9377.60097342793
+"SEL-04-01","Sockeye","Lillooet_Harr_L",1995,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,89628.0027364164
+"SEL-04-01","Sockeye","Lillooet_Harr_L",1996,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,65212.9112895557
+"SEL-04-01","Sockeye","Lillooet_Harr_L",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,43321.4919859545
+"SEL-04-01","Sockeye","Lillooet_Harr_L",1998,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,70974.941798955
+"SEL-04-01","Sockeye","Lillooet_Harr_L",1999,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,75725.0538637853
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2000,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,53582.3980953402
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2001,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,52370.0212516982
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2002,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,51932.4052491237
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2003,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,82772.899721721
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2004,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,107905.627034011
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2005,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,113623.939923124
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2006,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,112641.635589315
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2007,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,82707.9842244327
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2008,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,63460.5907982253
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2009,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,63619.7834041711
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2010,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,52906.9199229387
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2011,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,62112.455909093
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2012,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,51614.4377514323
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2013,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,56466.5410402053
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2014,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,40484.6232745163
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2015,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,28901.7908401607
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2016,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,42020.7401160071
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2017,"Abs_Abd","Amber","Green","Amber","Red",NA,"Amber","Amber","Green","Amber","Green",6,29062.1558477295
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2018,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,23330.8743980051
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2019,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,11898.0741810402
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2020,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,7013.62147636081
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2021,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,8861.24933390774
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2022,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,15140.8882387836
+"SEL-04-01","Sockeye","Lillooet_Harr_L",2023,"Abs_Abd","Amber","Green","Red","Red",NA,"Red","Amber","Green","Amber","Green",6,33497.877313386
+"SEL-03-03","Sockeye","Harrison_DS_L",1995,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,1330.66416122568
+"SEL-03-03","Sockeye","Harrison_DS_L",1996,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,1337.15450157858
+"SEL-03-03","Sockeye","Harrison_DS_L",1997,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,1436.94283676158
+"SEL-03-03","Sockeye","Harrison_DS_L",1998,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,2486.41955687252
+"SEL-03-03","Sockeye","Harrison_DS_L",1999,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,2110.15277624955
+"SEL-03-03","Sockeye","Harrison_DS_L",2000,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,2638.31765008292
+"SEL-03-03","Sockeye","Harrison_DS_L",2001,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,4249.01193972373
+"SEL-03-03","Sockeye","Harrison_DS_L",2002,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,6402.77217982717
+"SEL-03-03","Sockeye","Harrison_DS_L",2003,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,12758.9837023054
+"SEL-03-03","Sockeye","Harrison_DS_L",2004,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,15959.8885070549
+"SEL-03-03","Sockeye","Harrison_DS_L",2005,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,12861.77048311
+"SEL-03-03","Sockeye","Harrison_DS_L",2006,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,11878.5362678001
+"SEL-03-03","Sockeye","Harrison_DS_L",2007,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,9433.64840387266
+"SEL-03-03","Sockeye","Harrison_DS_L",2008,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,4980.58458003849
+"SEL-03-03","Sockeye","Harrison_DS_L",2009,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,5376.88583001184
+"SEL-03-03","Sockeye","Harrison_DS_L",2010,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,4440.76617942502
+"SEL-03-03","Sockeye","Harrison_DS_L",2011,"Rel_Idx",NA,NA,"Green","Green",NA,"Green",NA,NA,NA,NA,2,4777.13333220006
+"SEL-03-03","Sockeye","Harrison_DS_L",2012,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,4868.10908223752
+"SEL-03-03","Sockeye","Harrison_DS_L",2013,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,4824.81562427326
+"SEL-03-03","Sockeye","Harrison_DS_L",2014,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,4040.5686393449
+"SEL-03-03","Sockeye","Harrison_DS_L",2015,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,4167.53363074744
+"SEL-03-03","Sockeye","Harrison_DS_L",2016,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,4783.80874235941
+"SEL-03-03","Sockeye","Harrison_DS_L",2017,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,4716.58029774244
+"SEL-03-03","Sockeye","Harrison_DS_L",2018,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,3133.13531712688
+"SEL-03-03","Sockeye","Harrison_DS_L",2019,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,928.472646401325
+"SEL-03-03","Sockeye","Harrison_DS_L",2020,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,441.159458185792
+"SEL-03-03","Sockeye","Harrison_DS_L",2021,"Rel_Idx",NA,NA,"Green","Red",NA,"Green",NA,NA,NA,NA,2,331.672353418338
+"SEL-03-03","Sockeye","Harrison_DS_L",2022,"Rel_Idx",NA,NA,"Amber","Red",NA,"Green",NA,NA,NA,NA,2,351.132673383496
+"SEL-03-03","Sockeye","Harrison_DS_L",2023,"Rel_Idx",NA,NA,"Amber","Red",NA,"Green",NA,NA,NA,NA,2,743.666532388635
+"SEL-05-02","Sockeye","Nahatlatch_ES",1995,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,3149.40332985269
+"SEL-05-02","Sockeye","Nahatlatch_ES",1996,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,4219.3317902033
+"SEL-05-02","Sockeye","Nahatlatch_ES",1997,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,6132.83893896401
+"SEL-05-02","Sockeye","Nahatlatch_ES",1998,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4,6126.37908540474
+"SEL-05-02","Sockeye","Nahatlatch_ES",1999,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4,6470.73145821731
+"SEL-05-02","Sockeye","Nahatlatch_ES",2000,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4,5045.73833282618
+"SEL-05-02","Sockeye","Nahatlatch_ES",2001,"Abs_Abd",NA,"Amber","Green","Amber",NA,"Green",NA,"Amber",NA,"Amber",4,4342.89533669633
+"SEL-05-02","Sockeye","Nahatlatch_ES",2002,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,4568.84065054281
+"SEL-05-02","Sockeye","Nahatlatch_ES",2003,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,4810.28574590237
+"SEL-05-02","Sockeye","Nahatlatch_ES",2004,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,3257.51191360371
+"SEL-05-02","Sockeye","Nahatlatch_ES",2005,"Abs_Abd",NA,"Amber","Green","Amber",NA,"Amber",NA,"Amber",NA,"Amber",4,2595.90533718677
+"SEL-05-02","Sockeye","Nahatlatch_ES",2006,"Abs_Abd",NA,"Amber","Green","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,1754.24706916983
+"SEL-05-02","Sockeye","Nahatlatch_ES",2007,"Abs_Abd",NA,"Amber","Green","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,1852.5554598017
+"SEL-05-02","Sockeye","Nahatlatch_ES",2008,"Abs_Abd",NA,"Amber","Amber","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,1383.75532925162
+"SEL-05-02","Sockeye","Nahatlatch_ES",2009,"Abs_Abd",NA,"Amber","Amber","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,1254.27721552678
+"SEL-05-02","Sockeye","Nahatlatch_ES",2010,"Abs_Abd",NA,"Amber","Amber","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,1674.00566728822
+"SEL-05-02","Sockeye","Nahatlatch_ES",2011,"Abs_Abd",NA,"Amber","Amber","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,1884.75603542079
+"SEL-05-02","Sockeye","Nahatlatch_ES",2012,"Abs_Abd",NA,"Amber","Amber","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,2897.97876342019
+"SEL-05-02","Sockeye","Nahatlatch_ES",2013,"Abs_Abd",NA,"Amber","Green","Red",NA,"Amber",NA,"Amber",NA,"Amber",4,3037.13097340255
+"SEL-05-02","Sockeye","Nahatlatch_ES",2014,"Abs_Abd",NA,"Amber","Green","Amber",NA,"Amber",NA,"Amber",NA,"Amber",4,2832.19501198573
+"SEL-05-02","Sockeye","Nahatlatch_ES",2015,"Abs_Abd",NA,"Amber","Green","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,2321.86715274143
+"SEL-05-02","Sockeye","Nahatlatch_ES",2016,"Abs_Abd",NA,"Amber","Green","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,2251.77293367206
+"SEL-05-02","Sockeye","Nahatlatch_ES",2017,"Abs_Abd",NA,"Amber","Green","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,2304.27721265899
+"SEL-05-02","Sockeye","Nahatlatch_ES",2018,"Abs_Abd",NA,"Amber","Green","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,2026.02866560932
+"SEL-05-02","Sockeye","Nahatlatch_ES",2019,"Abs_Abd",NA,"Amber","Amber","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,1660.01241645569
+"SEL-05-02","Sockeye","Nahatlatch_ES",2020,"Abs_Abd",NA,"Amber","Amber","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,1771.90540939195
+"SEL-05-02","Sockeye","Nahatlatch_ES",2021,"Abs_Abd",NA,"Amber","Amber","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,2383.00318281266
+"SEL-05-02","Sockeye","Nahatlatch_ES",2022,"Abs_Abd",NA,"Amber","Green","Amber",NA,"Amber",NA,"Amber",NA,"Amber",4,2939.87371521715
+"SEL-05-02","Sockeye","Nahatlatch_ES",2023,"Abs_Abd",NA,"Amber","Green","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,4352.08411108634
+"SEL-06-16","Sockeye","Taseko_ES",1995,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-16","Sockeye","Taseko_ES",1996,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-16","Sockeye","Taseko_ES",1997,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,671.044127550769
+"SEL-06-16","Sockeye","Taseko_ES",1998,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,724.40584316793
+"SEL-06-16","Sockeye","Taseko_ES",1999,"Rel_Idx",NA,NA,"Red",NA,NA,"Red",NA,NA,NA,NA,1,635.382510844133
+"SEL-06-16","Sockeye","Taseko_ES",2000,"Rel_Idx",NA,NA,"Red",NA,NA,"Amber",NA,NA,NA,NA,1,761.87715230662
+"SEL-06-16","Sockeye","Taseko_ES",2001,"Rel_Idx",NA,NA,"Amber",NA,NA,"Amber",NA,NA,NA,NA,1,1046.18836764805
+"SEL-06-16","Sockeye","Taseko_ES",2002,"Rel_Idx",NA,NA,"Amber",NA,NA,"Amber",NA,NA,NA,NA,1,1435.56849685137
+"SEL-06-16","Sockeye","Taseko_ES",2003,"Rel_Idx",NA,NA,"Green",NA,NA,"Amber",NA,NA,NA,NA,1,1103.34682828323
+"SEL-06-16","Sockeye","Taseko_ES",2004,"Rel_Idx",NA,NA,"Green",NA,NA,"Amber",NA,NA,NA,NA,1,630.549567023286
+"SEL-06-16","Sockeye","Taseko_ES",2005,"Rel_Idx",NA,NA,"Amber",NA,NA,"Amber",NA,NA,NA,NA,1,535.451411468377
+"SEL-06-16","Sockeye","Taseko_ES",2006,"Rel_Idx",NA,NA,"Amber",NA,NA,"Amber",NA,NA,NA,NA,1,606.509591049883
+"SEL-06-16","Sockeye","Taseko_ES",2007,"Rel_Idx",NA,NA,"Red","Green",NA,"Red",NA,NA,NA,NA,2,536.698960442587
+"SEL-06-16","Sockeye","Taseko_ES",2008,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,330.775418923666
+"SEL-06-16","Sockeye","Taseko_ES",2009,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,174.19969491252
+"SEL-06-16","Sockeye","Taseko_ES",2010,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,130.4510901593
+"SEL-06-16","Sockeye","Taseko_ES",2011,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,181.589981067998
+"SEL-06-16","Sockeye","Taseko_ES",2012,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,220.293617533066
+"SEL-06-16","Sockeye","Taseko_ES",2013,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,290.607992531082
+"SEL-06-16","Sockeye","Taseko_ES",2014,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,183.505773554216
+"SEL-06-16","Sockeye","Taseko_ES",2015,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,185.716310106167
+"SEL-06-16","Sockeye","Taseko_ES",2016,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,210.165298197928
+"SEL-06-16","Sockeye","Taseko_ES",2017,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,133.967011606445
+"SEL-06-16","Sockeye","Taseko_ES",2018,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,120.483183779916
+"SEL-06-16","Sockeye","Taseko_ES",2019,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,NA
+"SEL-06-16","Sockeye","Taseko_ES",2020,"Rel_Idx",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,NA
+"SEL-06-16","Sockeye","Taseko_ES",2021,"Rel_Idx",NA,NA,"Red","Green",NA,"Red",NA,NA,NA,NA,2,NA
+"SEL-06-16","Sockeye","Taseko_ES",2022,"Rel_Idx",NA,NA,"Red","Green",NA,"Amber",NA,NA,NA,NA,2,NA
+"SEL-06-16","Sockeye","Taseko_ES",2023,"Rel_Idx",NA,NA,"Amber","Green",NA,"Amber",NA,NA,NA,NA,2,739.363122867914
+"SER-02","Sockeye","Widgeon_RT",1995,"Abs_Abd",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,NA
+"SER-02","Sockeye","Widgeon_RT",1996,"Abs_Abd",NA,NA,"Red","Red",NA,"Red",NA,NA,NA,NA,2,NA
+"SER-02","Sockeye","Widgeon_RT",1997,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,77.6960879978261
+"SER-02","Sockeye","Widgeon_RT",1998,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,60.5924069458135
+"SER-02","Sockeye","Widgeon_RT",1999,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,67.2605685736647
+"SER-02","Sockeye","Widgeon_RT",2000,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,49.3254310719213
+"SER-02","Sockeye","Widgeon_RT",2001,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,62.8206574171621
+"SER-02","Sockeye","Widgeon_RT",2002,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,111.715075376284
+"SER-02","Sockeye","Widgeon_RT",2003,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,101.830949848064
+"SER-02","Sockeye","Widgeon_RT",2004,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,116.835230131222
+"SER-02","Sockeye","Widgeon_RT",2005,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,153.943982753682
+"SER-02","Sockeye","Widgeon_RT",2006,"Abs_Abd",NA,"Red","Red","Green",NA,"Red",NA,"Red",NA,"Red",4,112.713494023859
+"SER-02","Sockeye","Widgeon_RT",2007,"Abs_Abd",NA,"Red","Red","Green",NA,"Red",NA,"Red",NA,"Red",4,126.243002260069
+"SER-02","Sockeye","Widgeon_RT",2008,"Abs_Abd",NA,"Red","Red","Green",NA,"Red",NA,"Red",NA,"Red",4,143.539824218146
+"SER-02","Sockeye","Widgeon_RT",2009,"Abs_Abd",NA,"Red","Red","Green",NA,"Red",NA,"Red",NA,"Red",4,228.298531571334
+"SER-02","Sockeye","Widgeon_RT",2010,"Abs_Abd",NA,"Red","Red","Green",NA,"Red",NA,"Red",NA,"Red",4,357.334656483434
+"SER-02","Sockeye","Widgeon_RT",2011,"Abs_Abd",NA,"Red","Amber","Green",NA,"Amber",NA,"Red",NA,"Red",4,613.117328325995
+"SER-02","Sockeye","Widgeon_RT",2012,"Abs_Abd",NA,"Amber","Green","Green",NA,"Amber",NA,"Amber",NA,"Amber",4,1006.25283247514
+"SER-02","Sockeye","Widgeon_RT",2013,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,1024.55106447476
+"SER-02","Sockeye","Widgeon_RT",2014,"Abs_Abd",NA,"Red","Green","Green",NA,"Green",NA,"Red",NA,"Red",4,792.631169753421
+"SER-02","Sockeye","Widgeon_RT",2015,"Abs_Abd",NA,"Red","Green","Green",NA,"Green",NA,"Red",NA,"Red",4,433.915006173472
+"SER-02","Sockeye","Widgeon_RT",2016,"Abs_Abd",NA,"Red","Green","Green",NA,"Amber",NA,"Red",NA,"Red",4,367.828359686134
+"SER-02","Sockeye","Widgeon_RT",2017,"Abs_Abd",NA,"Red","Green","Green",NA,"Amber",NA,"Red",NA,"Red",4,195.76268046246
+"SER-02","Sockeye","Widgeon_RT",2018,"Abs_Abd",NA,"Red","Amber","Green",NA,"Amber",NA,"Red",NA,"Red",4,164.134495571636
+"SER-02","Sockeye","Widgeon_RT",2019,"Abs_Abd",NA,"Red","Red","Red",NA,"Amber",NA,"Red",NA,"Red",4,174.74223653108
+"SER-02","Sockeye","Widgeon_RT",2020,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,174.992704358686
+"SER-02","Sockeye","Widgeon_RT",2021,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,172.517306717657
+"SER-02","Sockeye","Widgeon_RT",2022,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,177.664080917586
+"SER-02","Sockeye","Widgeon_RT",2023,"Abs_Abd",NA,"Red","Red","Red",NA,"Red",NA,"Red",NA,"Red",4,140.071150167196
+"SEL-03-01","Sockeye","Chilliwack_ES",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-03-01","Sockeye","Chilliwack_ES",2004,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,11921.6652730731
+"SEL-03-01","Sockeye","Chilliwack_ES",2005,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,7112.22993207906
+"SEL-03-01","Sockeye","Chilliwack_ES",2006,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,5142.32845471691
+"SEL-03-01","Sockeye","Chilliwack_ES",2007,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,4066.03005229463
+"SEL-03-01","Sockeye","Chilliwack_ES",2008,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,4076.69625419001
+"SEL-03-01","Sockeye","Chilliwack_ES",2009,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,4597.85360327592
+"SEL-03-01","Sockeye","Chilliwack_ES",2010,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,5843.33203035122
+"SEL-03-01","Sockeye","Chilliwack_ES",2011,"Abs_Abd","Red","Amber",NA,NA,NA,NA,"Red","Amber","Red","Amber",4,7211.54851295709
+"SEL-03-01","Sockeye","Chilliwack_ES",2012,"Abs_Abd","Amber","Amber",NA,NA,NA,NA,"Amber","Amber","Amber","Amber",4,9507.99128767519
+"SEL-03-01","Sockeye","Chilliwack_ES",2013,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,11429.1136234854
+"SEL-03-01","Sockeye","Chilliwack_ES",2014,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,11955.774012598
+"SEL-03-01","Sockeye","Chilliwack_ES",2015,"Abs_Abd","Amber","Green",NA,"Green",NA,NA,"Amber","Green","Amber","Green",5,12640.9533592286
+"SEL-03-01","Sockeye","Chilliwack_ES",2016,"Abs_Abd","Amber","Green",NA,"Green",NA,NA,"Amber","Green","Amber","Green",5,10246.4996407339
+"SEL-03-01","Sockeye","Chilliwack_ES",2017,"Abs_Abd","Amber","Amber",NA,"Green",NA,NA,"Amber","Amber","Amber","Amber",5,8897.36795545232
+"SEL-03-01","Sockeye","Chilliwack_ES",2018,"Abs_Abd","Red","Amber","Green","Green",NA,"Green","Red","Amber","Red","Amber",6,7780.22429754537
+"SEL-03-01","Sockeye","Chilliwack_ES",2019,"Abs_Abd","Red","Amber","Green","Green",NA,"Amber","Red","Amber","Red","Amber",6,5454.5745814479
+"SEL-03-01","Sockeye","Chilliwack_ES",2020,"Abs_Abd","Red","Amber","Green","Green",NA,"Amber","Red","Amber","Red","Amber",6,4798.21112588238
+"SEL-03-01","Sockeye","Chilliwack_ES",2021,"Abs_Abd","Red","Amber","Amber","Red",NA,"Amber","Red","Amber","Red","Amber",6,3473.39718769064
+"SEL-03-01","Sockeye","Chilliwack_ES",2022,"Abs_Abd","Red","Amber","Amber","Red",NA,"Red","Red","Amber","Red","Amber",6,4059.91380372288
+"SEL-03-01","Sockeye","Chilliwack_ES",2023,"Abs_Abd","Red","Amber","Amber","Red",NA,"Red","Red","Amber","Red","Amber",6,5536.20570610791
+"SEL-06-14","Sockeye","Takla_Trem_EStu",1995,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,679754.8169
+"SEL-06-14","Sockeye","Takla_Trem_EStu",1996,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,679754.8169
+"SEL-06-14","Sockeye","Takla_Trem_EStu",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,217302.4682
+"SEL-06-14","Sockeye","Takla_Trem_EStu",1998,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,217302.4682
+"SEL-06-14","Sockeye","Takla_Trem_EStu",1999,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,217302.4682
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2000,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,217302.4682
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2001,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,158475.9838
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2002,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,158475.9838
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2003,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,158475.9838
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2004,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,158475.9838
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2005,"Abs_Abd","Red","Green","Green","Red",NA,"Amber","Red","Green","Red","Green",6,97586.7407
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2006,"Abs_Abd","Red","Green","Amber","Red",NA,"Amber","Red","Green","Red","Green",6,97586.7407
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2007,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6,97586.7407
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2008,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6,97586.7407
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2009,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6,42994.8532
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2010,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6,42994.8532
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2011,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6,42994.8532
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2012,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,42994.8532
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2013,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,75337.4659
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2014,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,75337.4659
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2015,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,75337.4659
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2016,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,75337.4659
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2017,"Abs_Abd","Red","Green","Red","Red",NA,"Red","Red","Green","Red","Green",6,12870.1013
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2018,"Abs_Abd","Red","Green","Amber","Red",NA,"Red","Red","Green","Red","Green",6,12870.1013
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2019,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,12870.1013
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2020,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,12870.1013
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2021,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,47357.1879
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2022,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,47357.1879
+"SEL-06-14","Sockeye","Takla_Trem_EStu",2023,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,47357.1879
+"SEL-06-01","Sockeye","Anderson_Seton_ES",1995,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,8027.19994894131
+"SEL-06-01","Sockeye","Anderson_Seton_ES",1996,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,8979.26322747641
+"SEL-06-01","Sockeye","Anderson_Seton_ES",1997,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6475.15132195802
+"SEL-06-01","Sockeye","Anderson_Seton_ES",1998,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,7354.48599160778
+"SEL-06-01","Sockeye","Anderson_Seton_ES",1999,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,5740.82953195619
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2000,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,6319.0013025654
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2001,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,7185.48729581296
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2002,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,5774.11857546642
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2003,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,7658.25657867577
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2004,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,5295.14794229563
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2005,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,6421.64319253128
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2006,"Abs_Abd","Amber","Amber","Green","Amber",NA,"Green","Amber","Amber","Amber","Amber",6,6603.47435042135
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2007,"Abs_Abd","Amber","Amber","Green","Amber",NA,"Green","Amber","Amber","Amber","Amber",6,4613.17063196401
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2008,"Abs_Abd","Amber","Amber","Green","Amber",NA,"Green","Amber","Amber","Amber","Amber",6,3688.73849309099
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2009,"Abs_Abd","Red","Amber","Green","Red",NA,"Green","Red","Amber","Red","Amber",6,3312.83723595912
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2010,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,4987.56753659152
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2011,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,10683.5750088744
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2012,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,14208.4819461428
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2013,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,21227.4120985997
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2014,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,22552.7750735541
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2015,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,18119.9617591132
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2016,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,15877.6587991351
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2017,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,9617.77154870914
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2018,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6398.12267519079
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2019,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,5532.37794793165
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2020,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,5441.58561878816
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2021,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,8248.89252450251
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2022,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,8046.04755844213
+"SEL-06-01","Sockeye","Anderson_Seton_ES",2023,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,9330.1707304216
+"SEL-10-01","Sockeye","Kamloops_ES",1995,"Abs_Abd","Red","Amber","Amber","Red",NA,"Red","Red","Amber","Red","Amber",6,2886.69706033396
+"SEL-10-01","Sockeye","Kamloops_ES",1996,"Abs_Abd","Red","Amber","Green","Red",NA,"Amber","Red","Amber","Red","Amber",6,4276.43965949339
+"SEL-10-01","Sockeye","Kamloops_ES",1997,"Abs_Abd","Red","Amber","Green","Green",NA,"Green","Red","Amber","Red","Amber",6,4273.86592491641
+"SEL-10-01","Sockeye","Kamloops_ES",1998,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6085.35000598303
+"SEL-10-01","Sockeye","Kamloops_ES",1999,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,9730.39003975274
+"SEL-10-01","Sockeye","Kamloops_ES",2000,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,10675.5881636314
+"SEL-10-01","Sockeye","Kamloops_ES",2001,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,16690.076372768
+"SEL-10-01","Sockeye","Kamloops_ES",2002,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,21257.8229386682
+"SEL-10-01","Sockeye","Kamloops_ES",2003,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,23192.3934916657
+"SEL-10-01","Sockeye","Kamloops_ES",2004,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,12950.5185734039
+"SEL-10-01","Sockeye","Kamloops_ES",2005,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,12541.6541532045
+"SEL-10-01","Sockeye","Kamloops_ES",2006,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,9553.3224345272
+"SEL-10-01","Sockeye","Kamloops_ES",2007,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,10501.9834978048
+"SEL-10-01","Sockeye","Kamloops_ES",2008,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,11225.8967190657
+"SEL-10-01","Sockeye","Kamloops_ES",2009,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,9039.24880576302
+"SEL-10-01","Sockeye","Kamloops_ES",2010,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,8469.47633211459
+"SEL-10-01","Sockeye","Kamloops_ES",2011,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,7401.01069646843
+"SEL-10-01","Sockeye","Kamloops_ES",2012,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,6033.58436282916
+"SEL-10-01","Sockeye","Kamloops_ES",2013,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,6594.19392595517
+"SEL-10-01","Sockeye","Kamloops_ES",2014,"Abs_Abd","Amber","Amber","Green","Red",NA,"Green","Amber","Amber","Amber","Amber",6,9092.82041134601
+"SEL-10-01","Sockeye","Kamloops_ES",2015,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,10725.3765563713
+"SEL-10-01","Sockeye","Kamloops_ES",2016,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,12865.5519250726
+"SEL-10-01","Sockeye","Kamloops_ES",2017,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,9082.8265160573
+"SEL-10-01","Sockeye","Kamloops_ES",2018,"Abs_Abd","Amber","Amber","Green","Green",NA,"Green","Amber","Amber","Amber","Amber",6,6087.79434530176
+"SEL-10-01","Sockeye","Kamloops_ES",2019,"Abs_Abd","Red","Amber","Green","Red",NA,"Green","Red","Amber","Red","Amber",6,2706.98367414298
+"SEL-10-01","Sockeye","Kamloops_ES",2020,"Abs_Abd","Red","Amber","Green","Red",NA,"Amber","Red","Amber","Red","Amber",6,2514.43499769252
+"SEL-10-01","Sockeye","Kamloops_ES",2021,"Abs_Abd","Red","Amber","Amber","Red",NA,"Amber","Red","Amber","Red","Amber",6,2404.33166497351
+"SEL-10-01","Sockeye","Kamloops_ES",2022,"Abs_Abd","Red","Amber","Amber","Red",NA,"Amber","Red","Amber","Red","Amber",6,2457.21216977934
+"SEL-10-01","Sockeye","Kamloops_ES",2023,"Abs_Abd","Amber","Amber","Amber","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,5006.97379477646
+"SEL-09-02","Sockeye","Shuswap_ES",1995,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,131126.024
+"SEL-09-02","Sockeye","Shuswap_ES",1996,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,131126.024
+"SEL-09-02","Sockeye","Shuswap_ES",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,131126.024
+"SEL-09-02","Sockeye","Shuswap_ES",1998,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,66878.7298
+"SEL-09-02","Sockeye","Shuswap_ES",1999,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,66878.7298
+"SEL-09-02","Sockeye","Shuswap_ES",2000,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,66878.7298
+"SEL-09-02","Sockeye","Shuswap_ES",2001,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,66878.7298
+"SEL-09-02","Sockeye","Shuswap_ES",2002,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,211677.0321
+"SEL-09-02","Sockeye","Shuswap_ES",2003,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,211677.0321
+"SEL-09-02","Sockeye","Shuswap_ES",2004,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,211677.0321
+"SEL-09-02","Sockeye","Shuswap_ES",2005,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,211677.0321
+"SEL-09-02","Sockeye","Shuswap_ES",2006,"Abs_Abd","Green","Green","Green","Amber",NA,"Green","Green","Green","Green","Green",6,231140.7529
+"SEL-09-02","Sockeye","Shuswap_ES",2007,"Abs_Abd","Green","Green","Green","Red",NA,"Amber","Green","Green","Green","Green",6,231140.7529
+"SEL-09-02","Sockeye","Shuswap_ES",2008,"Abs_Abd","Green","Green","Green","Red",NA,"Amber","Green","Green","Green","Green",6,231140.7529
+"SEL-09-02","Sockeye","Shuswap_ES",2009,"Abs_Abd","Green","Green","Green","Red",NA,"Amber","Green","Green","Green","Green",6,231140.7529
+"SEL-09-02","Sockeye","Shuswap_ES",2010,"Abs_Abd","Green","Green","Green","Red",NA,"Amber","Green","Green","Green","Green",6,974989.8623
+"SEL-09-02","Sockeye","Shuswap_ES",2011,"Abs_Abd","Green","Green","Green","Red",NA,"Amber","Green","Green","Green","Green",6,974989.8623
+"SEL-09-02","Sockeye","Shuswap_ES",2012,"Abs_Abd","Green","Green","Green","Amber",NA,"Green","Green","Green","Green","Green",6,974989.8623
+"SEL-09-02","Sockeye","Shuswap_ES",2013,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,974989.8623
+"SEL-09-02","Sockeye","Shuswap_ES",2014,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,231789.6533
+"SEL-09-02","Sockeye","Shuswap_ES",2015,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,231789.6533
+"SEL-09-02","Sockeye","Shuswap_ES",2016,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,231789.6533
+"SEL-09-02","Sockeye","Shuswap_ES",2017,"Abs_Abd","Green","Green","Green","Green",NA,"Amber","Green","Green","Green","Green",6,231789.6533
+"SEL-09-02","Sockeye","Shuswap_ES",2018,"Abs_Abd","Green","Green","Green","Green",NA,"Amber","Green","Green","Green","Green",6,182167.224
+"SEL-09-02","Sockeye","Shuswap_ES",2019,"Abs_Abd","Green","Amber","Amber","Red",NA,"Amber","Green","Amber","Green","Amber",6,182167.224
+"SEL-09-02","Sockeye","Shuswap_ES",2020,"Abs_Abd","Green","Amber","Amber","Red",NA,"Red","Green","Amber","Green","Amber",6,182167.224
+"SEL-09-02","Sockeye","Shuswap_ES",2021,"Abs_Abd","Green","Green","Amber","Red",NA,"Red","Green","Green","Green","Green",6,182167.224
+"SEL-09-02","Sockeye","Shuswap_ES",2022,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,79625.4205
+"SEL-09-02","Sockeye","Shuswap_ES",2023,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,79625.4205
+"SEL-06-13","Sockeye","Takla_Trem_S_S",1995,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,1799182.291
+"SEL-06-13","Sockeye","Takla_Trem_S_S",1996,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,1799182.291
+"SEL-06-13","Sockeye","Takla_Trem_S_S",1997,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,795952.7364
+"SEL-06-13","Sockeye","Takla_Trem_S_S",1998,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,795952.7364
+"SEL-06-13","Sockeye","Takla_Trem_S_S",1999,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,795952.7364
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2000,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,795952.7364
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2001,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,338434.2462
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2002,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,338434.2462
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2003,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,338434.2462
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2004,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,338434.2462
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2005,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,292825.7285
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2006,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,292825.7285
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2007,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,292825.7285
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2008,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,292825.7285
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2009,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,85847.053
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2010,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,85847.053
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2011,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,85847.053
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2012,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,85847.053
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2013,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,130426.8585
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2014,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,130426.8585
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2015,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,130426.8585
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2016,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,130426.8585
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2017,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2018,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2019,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2020,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2021,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,379351.1715
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2022,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,379351.1715
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2023,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,379351.1715
+"SEL-06-10","Sockeye","Quesnel_S",1995,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,2556111.156
+"SEL-06-10","Sockeye","Quesnel_S",1996,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,2556111.156
+"SEL-06-10","Sockeye","Quesnel_S",1997,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,1651326.746
+"SEL-06-10","Sockeye","Quesnel_S",1998,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,1651326.746
+"SEL-06-10","Sockeye","Quesnel_S",1999,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,1651326.746
+"SEL-06-10","Sockeye","Quesnel_S",2000,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,1651326.746
+"SEL-06-10","Sockeye","Quesnel_S",2001,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,3204416.669
+"SEL-06-10","Sockeye","Quesnel_S",2002,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,3204416.669
+"SEL-06-10","Sockeye","Quesnel_S",2003,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,3204416.669
+"SEL-06-10","Sockeye","Quesnel_S",2004,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,3204416.669
+"SEL-06-10","Sockeye","Quesnel_S",2005,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,881111.1862
+"SEL-06-10","Sockeye","Quesnel_S",2006,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,881111.1862
+"SEL-06-10","Sockeye","Quesnel_S",2007,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,881111.1862
+"SEL-06-10","Sockeye","Quesnel_S",2008,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,881111.1862
+"SEL-06-10","Sockeye","Quesnel_S",2009,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,148132.3219
+"SEL-06-10","Sockeye","Quesnel_S",2010,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,148132.3219
+"SEL-06-10","Sockeye","Quesnel_S",2011,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,148132.3219
+"SEL-06-10","Sockeye","Quesnel_S",2012,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,148132.3219
+"SEL-06-10","Sockeye","Quesnel_S",2013,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,172393.4752
+"SEL-06-10","Sockeye","Quesnel_S",2014,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,172393.4752
+"SEL-06-10","Sockeye","Quesnel_S",2015,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,172393.4752
+"SEL-06-10","Sockeye","Quesnel_S",2016,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,172393.4752
+"SEL-06-10","Sockeye","Quesnel_S",2017,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,105880.2722
+"SEL-06-10","Sockeye","Quesnel_S",2018,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,105880.2722
+"SEL-06-10","Sockeye","Quesnel_S",2019,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,105880.2722
+"SEL-06-10","Sockeye","Quesnel_S",2020,"Abs_Abd","Red","Green","Green","Red",NA,"Green","Red","Green","Red","Green",6,105880.2722
+"SEL-06-10","Sockeye","Quesnel_S",2021,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,100565.5158
+"SEL-06-10","Sockeye","Quesnel_S",2022,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,100565.5158
+"SEL-06-10","Sockeye","Quesnel_S",2023,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,100565.5158
+"SEL-09-03","Sockeye","Shuswap_L",1995,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,1361672.539
+"SEL-09-03","Sockeye","Shuswap_L",1996,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,1361672.539
+"SEL-09-03","Sockeye","Shuswap_L",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,1361672.539
+"SEL-09-03","Sockeye","Shuswap_L",1998,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6,1321774.131
+"SEL-09-03","Sockeye","Shuswap_L",1999,"Abs_Abd","Amber","Green","Green","Amber",NA,"Amber","Amber","Green","Amber","Green",6,1321774.131
+"SEL-09-03","Sockeye","Shuswap_L",2000,"Abs_Abd","Amber","Green","Green","Red",NA,"Red","Amber","Green","Amber","Green",6,1321774.131
+"SEL-09-03","Sockeye","Shuswap_L",2001,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,1321774.131
+"SEL-09-03","Sockeye","Shuswap_L",2002,"Abs_Abd","Green","Green","Amber","Red",NA,"Red","Green","Green","Green","Green",6,5334542.957
+"SEL-09-03","Sockeye","Shuswap_L",2003,"Abs_Abd","Green","Green","Amber","Red",NA,"Red","Green","Green","Green","Green",6,5334542.957
+"SEL-09-03","Sockeye","Shuswap_L",2004,"Abs_Abd","Green","Green","Green","Red",NA,"Amber","Green","Green","Green","Green",6,5334542.957
+"SEL-09-03","Sockeye","Shuswap_L",2005,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,5334542.957
+"SEL-09-03","Sockeye","Shuswap_L",2006,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,2224510.789
+"SEL-09-03","Sockeye","Shuswap_L",2007,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,2224510.789
+"SEL-09-03","Sockeye","Shuswap_L",2008,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,2224510.789
+"SEL-09-03","Sockeye","Shuswap_L",2009,"Abs_Abd","Green","Green","Green","Green",NA,"Amber","Green","Green","Green","Green",6,2224510.789
+"SEL-09-03","Sockeye","Shuswap_L",2010,"Abs_Abd","Green","Green","Amber","Green",NA,"Red","Green","Green","Green","Green",6,5522595.018
+"SEL-09-03","Sockeye","Shuswap_L",2011,"Abs_Abd","Green","Green","Amber","Green",NA,"Red","Green","Green","Green","Green",6,5522595.018
+"SEL-09-03","Sockeye","Shuswap_L",2012,"Abs_Abd","Green","Green","Amber","Red",NA,"Red","Green","Green","Green","Green",6,5522595.018
+"SEL-09-03","Sockeye","Shuswap_L",2013,"Abs_Abd","Green","Green","Amber","Red",NA,"Red","Green","Green","Green","Green",6,5522595.018
+"SEL-09-03","Sockeye","Shuswap_L",2014,"Abs_Abd","Green","Green","Amber","Red",NA,"Red","Green","Green","Green","Green",6,2109576.025
+"SEL-09-03","Sockeye","Shuswap_L",2015,"Abs_Abd","Green","Green","Red","Red",NA,"Red","Green","Green","Green","Green",6,2109576.025
+"SEL-09-03","Sockeye","Shuswap_L",2016,"Abs_Abd","Green","Green","Red","Red",NA,"Red","Green","Green","Green","Green",6,2109576.025
+"SEL-09-03","Sockeye","Shuswap_L",2017,"Abs_Abd","Green","Amber","Red","Red",NA,"Red","Green","Amber","Green","Amber",6,2109576.025
+"SEL-09-03","Sockeye","Shuswap_L",2018,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1502077.039
+"SEL-09-03","Sockeye","Shuswap_L",2019,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1502077.039
+"SEL-09-03","Sockeye","Shuswap_L",2020,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1502077.039
+"SEL-09-03","Sockeye","Shuswap_L",2021,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1502077.039
+"SEL-09-03","Sockeye","Shuswap_L",2022,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,703128.3648
+"SEL-09-03","Sockeye","Shuswap_L",2023,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,703128.3648
+"SEL-06-20","Sockeye","Nadina_Francois_ES",1995,"Abs_Abd","Red","Amber","Green","Amber",NA,"Amber","Red","Amber","Red","Amber",6,6028.76173944814
+"SEL-06-20","Sockeye","Nadina_Francois_ES",1996,"Abs_Abd","Red","Green","Green","Amber",NA,"Amber","Red","Green","Red","Green",6,10161.1347678796
+"SEL-06-20","Sockeye","Nadina_Francois_ES",1997,"Abs_Abd","Red","Amber","Green","Amber",NA,"Red","Red","Amber","Red","Amber",6,9724.10020224465
+"SEL-06-20","Sockeye","Nadina_Francois_ES",1998,"Abs_Abd","Red","Green","Green","Amber",NA,"Amber","Red","Green","Red","Green",6,11295.0898338521
+"SEL-06-20","Sockeye","Nadina_Francois_ES",1999,"Abs_Abd","Red","Amber","Green","Green",NA,"Green","Red","Amber","Red","Amber",6,9948.93896718076
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2000,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,13453.0062012927
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2001,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,20298.4345766185
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2002,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,17373.9674806973
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2003,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,12991.9623013484
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2004,"Abs_Abd","Red","Amber","Green","Green",NA,"Green","Red","Amber","Red","Amber",6,8508.43083901723
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2005,"Abs_Abd","Red","Amber","Green","Green",NA,"Green","Red","Amber","Red","Amber",6,7340.08228676933
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2006,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,10516.8408642526
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2007,"Abs_Abd","Red","Amber","Green","Green",NA,"Amber","Red","Amber","Red","Amber",6,9055.56419900567
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2008,"Abs_Abd","Red","Amber","Green","Green",NA,"Amber","Red","Amber","Red","Amber",6,8644.70545562834
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2009,"Abs_Abd","Red","Amber","Green","Red",NA,"Amber","Red","Amber","Red","Amber",6,6964.65072109723
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2010,"Abs_Abd","Red","Amber","Green","Red",NA,"Amber","Red","Amber","Red","Amber",6,8805.04086629061
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2011,"Abs_Abd","Red","Green","Green","Red",NA,"Red","Red","Green","Red","Green",6,11044.5858243797
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2012,"Abs_Abd","Red","Green","Green","Red",NA,"Amber","Red","Green","Red","Green",6,12440.2520564076
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2013,"Abs_Abd","Red","Green","Green","Amber",NA,"Green","Red","Green","Red","Green",6,13478.7394924695
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2014,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,17124.0402668315
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2015,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,25788.8516230315
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2016,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,24809.7012712842
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2017,"Abs_Abd","Red","Green","Green","Green",NA,"Green","Red","Green","Red","Green",6,19082.0249646341
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2018,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,22927.6690417146
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2019,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,22996.8112243609
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2020,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,23753.7646139531
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2021,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,30369.950741762
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2022,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,36583.6662447531
+"SEL-06-20","Sockeye","Nadina_Francois_ES",2023,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,51856.1958480748
+"SEL-10-03","Sockeye","North_Barriere_ES",1995,"Abs_Abd","Green","Amber","Green","Green",NA,"Green","Green","Amber","Green","Amber",6,8181.52218555504
+"SEL-10-03","Sockeye","North_Barriere_ES",1996,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,10807.3117888199
+"SEL-10-03","Sockeye","North_Barriere_ES",1997,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,11079.4295555185
+"SEL-10-03","Sockeye","North_Barriere_ES",1998,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,12026.5553905099
+"SEL-10-03","Sockeye","North_Barriere_ES",1999,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,10164.4149775097
+"SEL-10-03","Sockeye","North_Barriere_ES",2000,"Abs_Abd","Green","Amber","Green","Amber",NA,"Green","Green","Amber","Green","Amber",6,7775.91738937997
+"SEL-10-03","Sockeye","North_Barriere_ES",2001,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,7035.137743021
+"SEL-10-03","Sockeye","North_Barriere_ES",2002,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,6816.69616773989
+"SEL-10-03","Sockeye","North_Barriere_ES",2003,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,7732.81777897408
+"SEL-10-03","Sockeye","North_Barriere_ES",2004,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,5654.20020231267
+"SEL-10-03","Sockeye","North_Barriere_ES",2005,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,5276.23117769419
+"SEL-10-03","Sockeye","North_Barriere_ES",2006,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,5901.05781304332
+"SEL-10-03","Sockeye","North_Barriere_ES",2007,"Abs_Abd","Green","Amber","Green","Red",NA,"Green","Green","Amber","Green","Amber",6,6199.32564533931
+"SEL-10-03","Sockeye","North_Barriere_ES",2008,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,3901.73316001412
+"SEL-10-03","Sockeye","North_Barriere_ES",2009,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,2804.20251318876
+"SEL-10-03","Sockeye","North_Barriere_ES",2010,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,2682.954547357
+"SEL-10-03","Sockeye","North_Barriere_ES",2011,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,2498.132138652
+"SEL-10-03","Sockeye","North_Barriere_ES",2012,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,3337.0437595236
+"SEL-10-03","Sockeye","North_Barriere_ES",2013,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,4326.68885521999
+"SEL-10-03","Sockeye","North_Barriere_ES",2014,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,4517.28375947851
+"SEL-10-03","Sockeye","North_Barriere_ES",2015,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,2881.4542880939
+"SEL-10-03","Sockeye","North_Barriere_ES",2016,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,2664.27903882856
+"SEL-10-03","Sockeye","North_Barriere_ES",2017,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,1773.82069806368
+"SEL-10-03","Sockeye","North_Barriere_ES",2018,"Abs_Abd","Amber","Amber","Amber","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,1191.57912499626
+"SEL-10-03","Sockeye","North_Barriere_ES",2019,"Abs_Abd","Amber","Red","Amber","Red",NA,"Amber","Amber","Red","Amber","Red",6,933.443815263767
+"SEL-10-03","Sockeye","North_Barriere_ES",2020,"Abs_Abd","Amber","Red","Red","Red",NA,"Red","Amber","Red","Amber","Red",6,922.49635162233
+"SEL-10-03","Sockeye","North_Barriere_ES",2021,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1004.23340648926
+"SEL-10-03","Sockeye","North_Barriere_ES",2022,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1234.5605904899
+"SEL-10-03","Sockeye","North_Barriere_ES",2023,"Abs_Abd","Amber","Amber","Red","Red",NA,"Red","Amber","Amber","Amber","Amber",6,1741.59956521485
+"SEL-03-05","Sockeye","Pitt_ES",1995,"Abs_Abd","Amber","Amber","Amber","Amber",NA,"Red","Amber","Amber","Amber","Amber",6,9627.16834692404
+"SEL-03-05","Sockeye","Pitt_ES",1996,"Abs_Abd","Amber","Green","Green","Green",NA,"Red","Amber","Green","Amber","Green",6,14775.926983138
+"SEL-03-05","Sockeye","Pitt_ES",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Amber","Amber","Green","Amber","Green",6,16396.4678994044
+"SEL-03-05","Sockeye","Pitt_ES",1998,"Abs_Abd","Green","Green","Green","Green",NA,"Amber","Green","Green","Green","Green",6,27559.4659273473
+"SEL-03-05","Sockeye","Pitt_ES",1999,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,45198.130101609
+"SEL-03-05","Sockeye","Pitt_ES",2000,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,43786.7999373508
+"SEL-03-05","Sockeye","Pitt_ES",2001,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,61806.5377799488
+"SEL-03-05","Sockeye","Pitt_ES",2002,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,64429.1170192303
+"SEL-03-05","Sockeye","Pitt_ES",2003,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,77724.8883837646
+"SEL-03-05","Sockeye","Pitt_ES",2004,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,84898.6043679098
+"SEL-03-05","Sockeye","Pitt_ES",2005,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,70334.1897779799
+"SEL-03-05","Sockeye","Pitt_ES",2006,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,57193.1805840924
+"SEL-03-05","Sockeye","Pitt_ES",2007,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,49149.9200353313
+"SEL-03-05","Sockeye","Pitt_ES",2008,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,32863.9075798638
+"SEL-03-05","Sockeye","Pitt_ES",2009,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,27665.5356216055
+"SEL-03-05","Sockeye","Pitt_ES",2010,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,21989.6017108733
+"SEL-03-05","Sockeye","Pitt_ES",2011,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,23650.1703252622
+"SEL-03-05","Sockeye","Pitt_ES",2012,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,37575.0977734777
+"SEL-03-05","Sockeye","Pitt_ES",2013,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,43476.3849200717
+"SEL-03-05","Sockeye","Pitt_ES",2014,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,51018.3146111694
+"SEL-03-05","Sockeye","Pitt_ES",2015,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,46347.8129993096
+"SEL-03-05","Sockeye","Pitt_ES",2016,"Abs_Abd","Green","Green","Green","Amber",NA,"Green","Green","Green","Green","Green",6,42945.0555891851
+"SEL-03-05","Sockeye","Pitt_ES",2017,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,38085.7274438691
+"SEL-03-05","Sockeye","Pitt_ES",2018,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,31423.5339026859
+"SEL-03-05","Sockeye","Pitt_ES",2019,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,17145.1940869999
+"SEL-03-05","Sockeye","Pitt_ES",2020,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,10085.7250493186
+"SEL-03-05","Sockeye","Pitt_ES",2021,"Abs_Abd","Amber","Amber","Green","Red",NA,"Amber","Amber","Amber","Amber","Amber",6,8751.74556942229
+"SEL-03-05","Sockeye","Pitt_ES",2022,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,10633.8421604245
+"SEL-03-05","Sockeye","Pitt_ES",2023,"Abs_Abd","Amber","Green","Amber","Red",NA,"Red","Amber","Green","Amber","Green",6,16897.4761035088
+"SEL-06-03","Sockeye","Chilko_S",1995,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,499766.230151814
+"SEL-06-03","Sockeye","Chilko_S",1996,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,579719.967331859
+"SEL-06-03","Sockeye","Chilko_S",1997,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,655506.693862937
+"SEL-06-03","Sockeye","Chilko_S",1998,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,763509.003593914
+"SEL-06-03","Sockeye","Chilko_S",1999,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,870233.335917959
+"SEL-06-03","Sockeye","Chilko_S",2000,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,821014.246421014
+"SEL-06-03","Sockeye","Chilko_S",2001,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,758580.501406623
+"SEL-06-03","Sockeye","Chilko_S",2002,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,629879.09993825
+"SEL-06-03","Sockeye","Chilko_S",2003,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,577710.889476245
+"SEL-06-03","Sockeye","Chilko_S",2004,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,342378.323378229
+"SEL-06-03","Sockeye","Chilko_S",2005,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,325308.580603106
+"SEL-06-03","Sockeye","Chilko_S",2006,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,340193.234685563
+"SEL-06-03","Sockeye","Chilko_S",2007,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,285126.301293136
+"SEL-06-03","Sockeye","Chilko_S",2008,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,313272.930077511
+"SEL-06-03","Sockeye","Chilko_S",2009,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,248631.528270972
+"SEL-06-03","Sockeye","Chilko_S",2010,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,365117.373552459
+"SEL-06-03","Sockeye","Chilko_S",2011,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,459080.56840358
+"SEL-06-03","Sockeye","Chilko_S",2012,"Abs_Abd","Green","Green","Green","Red",NA,"Green","Green","Green","Green","Green",6,485173.273985095
+"SEL-06-03","Sockeye","Chilko_S",2013,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,745416.505034514
+"SEL-06-03","Sockeye","Chilko_S",2014,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,621358.507231327
+"SEL-06-03","Sockeye","Chilko_S",2015,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,600736.426218979
+"SEL-06-03","Sockeye","Chilko_S",2016,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,571585.683042195
+"SEL-06-03","Sockeye","Chilko_S",2017,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,423343.187008096
+"SEL-06-03","Sockeye","Chilko_S",2018,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,371696.738782589
+"SEL-06-03","Sockeye","Chilko_S",2019,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,263837.322794912
+"SEL-06-03","Sockeye","Chilko_S",2020,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,207497.244115869
+"SEL-06-03","Sockeye","Chilko_S",2021,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,261578.895048439
+"SEL-06-03","Sockeye","Chilko_S",2022,"Abs_Abd","Amber","Green","Green","Red",NA,"Amber","Amber","Green","Amber","Green",6,286164.683589036
+"SEL-06-03","Sockeye","Chilko_S",2023,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,343202.319900862
+"SEL-06-02","Sockeye","Chilko_ES",1995,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",1996,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",1997,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",1998,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",1999,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2000,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2001,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2002,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2003,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2004,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2005,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2006,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2007,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2008,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2009,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2010,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2011,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2012,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2013,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2014,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2015,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2016,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2017,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2018,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2019,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2020,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2021,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2022,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-02","Sockeye","Chilko_ES",2023,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-06-07","Sockeye","Fran_Fras_S",1995,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,98035.7996212725
+"SEL-06-07","Sockeye","Fran_Fras_S",1996,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,130896.787383679
+"SEL-06-07","Sockeye","Fran_Fras_S",1997,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,114686.274924914
+"SEL-06-07","Sockeye","Fran_Fras_S",1998,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,126659.317174495
+"SEL-06-07","Sockeye","Fran_Fras_S",1999,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,138618.84279944
+"SEL-06-07","Sockeye","Fran_Fras_S",2000,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,142595.752565133
+"SEL-06-07","Sockeye","Fran_Fras_S",2001,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,182284.985121302
+"SEL-06-07","Sockeye","Fran_Fras_S",2002,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,209862.928873453
+"SEL-06-07","Sockeye","Fran_Fras_S",2003,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,186134.458649642
+"SEL-06-07","Sockeye","Fran_Fras_S",2004,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,131603.77929339
+"SEL-06-07","Sockeye","Fran_Fras_S",2005,"Abs_Abd","Green","Green","Green","Green",NA,"Green","Green","Green","Green","Green",6,139589.716085686
+"SEL-06-07","Sockeye","Fran_Fras_S",2006,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,114518.469932455
+"SEL-06-07","Sockeye","Fran_Fras_S",2007,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,96214.256379293
+"SEL-06-07","Sockeye","Fran_Fras_S",2008,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,108078.128413952
+"SEL-06-07","Sockeye","Fran_Fras_S",2009,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,68040.2801712877
+"SEL-06-07","Sockeye","Fran_Fras_S",2010,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,73275.3284910686
+"SEL-06-07","Sockeye","Fran_Fras_S",2011,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,78477.9014061463
+"SEL-06-07","Sockeye","Fran_Fras_S",2012,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,68252.3728570781
+"SEL-06-07","Sockeye","Fran_Fras_S",2013,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,93715.672184399
+"SEL-06-07","Sockeye","Fran_Fras_S",2014,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,115877.55606929
+"SEL-06-07","Sockeye","Fran_Fras_S",2015,"Abs_Abd","Green","Green","Green","Amber",NA,"Green","Green","Green","Green","Green",6,134995.149605288
+"SEL-06-07","Sockeye","Fran_Fras_S",2016,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,105836.527517528
+"SEL-06-07","Sockeye","Fran_Fras_S",2017,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,103548.987830401
+"SEL-06-07","Sockeye","Fran_Fras_S",2018,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,81599.8783471206
+"SEL-06-07","Sockeye","Fran_Fras_S",2019,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,68118.5478772681
+"SEL-06-07","Sockeye","Fran_Fras_S",2020,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,74989.5195563408
+"SEL-06-07","Sockeye","Fran_Fras_S",2021,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,80323.7608665164
+"SEL-06-07","Sockeye","Fran_Fras_S",2022,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,73335.9583044815
+"SEL-06-07","Sockeye","Fran_Fras_S",2023,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,90401.6233923288
+"SEL-03-02","Sockeye","Cultus_L",1995,"Abs_Abd","Red","Amber","Red","Green",NA,"Amber","Red","Amber","Red","Amber",6,2760.04426235196
+"SEL-03-02","Sockeye","Cultus_L",1996,"Abs_Abd","Red","Amber","Red","Green",NA,"Amber","Red","Amber","Red","Amber",6,3142.64212624469
+"SEL-03-02","Sockeye","Cultus_L",1997,"Abs_Abd","Red","Amber","Red","Green",NA,"Red","Red","Amber","Red","Amber",6,1685.70773538468
+"SEL-03-02","Sockeye","Cultus_L",1998,"Abs_Abd","Red","Amber","Red","Amber",NA,"Red","Red","Amber","Red","Amber",6,1377.05852515159
+"SEL-03-02","Sockeye","Cultus_L",1999,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1441.65026466904
+"SEL-03-02","Sockeye","Cultus_L",2000,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1272.40617743124
+"SEL-03-02","Sockeye","Cultus_L",2001,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1979.05064474505
+"SEL-03-02","Sockeye","Cultus_L",2002,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,2485.40634077752
+"SEL-03-02","Sockeye","Cultus_L",2003,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1563.17104914236
+"SEL-03-02","Sockeye","Cultus_L",2004,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,709.244861959026
+"SEL-03-02","Sockeye","Cultus_L",2005,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,484.338393232959
+"SEL-03-02","Sockeye","Cultus_L",2006,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,446.165141173373
+"SEL-03-02","Sockeye","Cultus_L",2007,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,323.814843384614
+"SEL-03-02","Sockeye","Cultus_L",2008,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,517.8042919818
+"SEL-03-02","Sockeye","Cultus_L",2009,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,820.178573443897
+"SEL-03-02","Sockeye","Cultus_L",2010,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,1056.71523172169
+"SEL-03-02","Sockeye","Cultus_L",2011,"Abs_Abd","Red","Amber","Red","Red",NA,"Red","Red","Amber","Red","Amber",6,2003.21401976673
+"SEL-03-02","Sockeye","Cultus_L",2012,"Abs_Abd","Red","Amber","Red","Green",NA,"Red","Red","Amber","Red","Amber",6,2507.72113750166
+"SEL-03-02","Sockeye","Cultus_L",2013,"Abs_Abd","Red","Amber","Amber","Green",NA,"Red","Red","Amber","Red","Amber",6,3296.82999713522
+"SEL-03-02","Sockeye","Cultus_L",2014,"Abs_Abd","Red","Amber","Amber","Green",NA,"Amber","Red","Amber","Red","Amber",6,2704.3948630799
+"SEL-03-02","Sockeye","Cultus_L",2015,"Abs_Abd","Red","Amber","Amber","Green",NA,"Amber","Red","Amber","Red","Amber",6,1710.9169976966
+"SEL-03-02","Sockeye","Cultus_L",2016,"Abs_Abd","Red","Amber","Amber","Green",NA,"Amber","Red","Amber","Red","Amber",6,2224.69473424965
+"SEL-03-02","Sockeye","Cultus_L",2017,"Abs_Abd","Red","Amber","Amber","Green",NA,"Amber","Red","Amber","Red","Amber",6,1672.66743287734
+"SEL-03-02","Sockeye","Cultus_L",2018,"Abs_Abd","Red","Red","Red","Green",NA,"Red","Red","Red","Red","Red",6,880.390770950112
+"SEL-03-02","Sockeye","Cultus_L",2019,"Abs_Abd","Red","Red","Red","Green",NA,"Red","Red","Red","Red","Red",6,333.797937703598
+"SEL-03-02","Sockeye","Cultus_L",2020,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,154.656691649424
+"SEL-03-02","Sockeye","Cultus_L",2021,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,123.875349243494
+"SEL-03-02","Sockeye","Cultus_L",2022,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,163.951252532093
+"SEL-03-02","Sockeye","Cultus_L",2023,"Abs_Abd","Red","Red","Red","Red",NA,"Red","Red","Red","Red","Red",6,198.0759738729
+"SER-03","Sockeye","Harrison_R",1995,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,3531.85451864922
+"SER-03","Sockeye","Harrison_R",1996,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,9339.08904334846
+"SER-03","Sockeye","Harrison_R",1997,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,7577.53119103646
+"SER-03","Sockeye","Harrison_R",1998,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,6303.77367019857
+"SER-03","Sockeye","Harrison_R",1999,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,5353.94783176499
+"SER-03","Sockeye","Harrison_R",2000,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,3907.81322282622
+"SER-03","Sockeye","Harrison_R",2001,"Abs_Abd",NA,"Amber",NA,NA,NA,NA,NA,"Amber",NA,"Amber",2,7086.58643822115
+"SER-03","Sockeye","Harrison_R",2002,"Abs_Abd",NA,"Green",NA,NA,NA,NA,NA,"Green",NA,"Green",2,12359.0158207041
+"SER-03","Sockeye","Harrison_R",2003,"Abs_Abd",NA,"Green",NA,NA,NA,NA,NA,"Green",NA,"Green",2,12238.2317916749
+"SER-03","Sockeye","Harrison_R",2004,"Abs_Abd",NA,"Green",NA,"Green",NA,NA,NA,"Green",NA,"Green",3,10212.5879303896
+"SER-03","Sockeye","Harrison_R",2005,"Abs_Abd",NA,"Green",NA,"Green",NA,NA,NA,"Green",NA,"Green",3,22916.9128745065
+"SER-03","Sockeye","Harrison_R",2006,"Abs_Abd",NA,"Green",NA,"Green",NA,NA,NA,"Green",NA,"Green",3,32574.6597339194
+"SER-03","Sockeye","Harrison_R",2007,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,64702.0493544228
+"SER-03","Sockeye","Harrison_R",2008,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,86438.2656677013
+"SER-03","Sockeye","Harrison_R",2009,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,80311.1948166775
+"SER-03","Sockeye","Harrison_R",2010,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,115271.011744319
+"SER-03","Sockeye","Harrison_R",2011,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,178019.579265866
+"SER-03","Sockeye","Harrison_R",2012,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,320267.023716065
+"SER-03","Sockeye","Harrison_R",2013,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,305774.426377246
+"SER-03","Sockeye","Harrison_R",2014,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,262357.811864688
+"SER-03","Sockeye","Harrison_R",2015,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,165265.271741534
+"SER-03","Sockeye","Harrison_R",2016,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,162271.334133197
+"SER-03","Sockeye","Harrison_R",2017,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,109145.224977799
+"SER-03","Sockeye","Harrison_R",2018,"Abs_Abd",NA,"Green","Green","Green",NA,"Green",NA,"Green",NA,"Green",4,48438.4819280425
+"SER-03","Sockeye","Harrison_R",2019,"Abs_Abd",NA,"Green","Green","Red",NA,"Green",NA,"Green",NA,"Green",4,20508.830534921
+"SER-03","Sockeye","Harrison_R",2020,"Abs_Abd",NA,"Green","Green","Red",NA,"Green",NA,"Green",NA,"Green",4,21238.0114558275
+"SER-03","Sockeye","Harrison_R",2021,"Abs_Abd",NA,"Green","Green","Red",NA,"Green",NA,"Green",NA,"Green",4,21914.8582220915
+"SER-03","Sockeye","Harrison_R",2022,"Abs_Abd",NA,"Green","Green","Red",NA,"Amber",NA,"Green",NA,"Green",4,26054.7976737667
+"SER-03","Sockeye","Harrison_R",2023,"Abs_Abd",NA,"Green","Green","Red",NA,"Green",NA,"Green",NA,"Green",4,43850.1972951832
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",1995,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",1996,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",1997,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",1998,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",1999,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2000,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2001,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2002,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2003,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2004,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2005,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2006,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2007,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2008,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2009,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2010,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2011,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2012,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2013,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2014,"Abs_Abd",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,NA
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2015,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,64783.3941344679
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2016,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,62157.4178034016
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2017,"Abs_Abd","Green","Green",NA,NA,NA,NA,"Green","Green","Green","Green",4,59171.704688319
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2018,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,43353.7113616981
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2019,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,47432.2924725833
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2020,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,46311.2013206875
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2021,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,39799.2762841913
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2022,"Abs_Abd","Amber","Green",NA,NA,NA,NA,"Amber","Green","Amber","Green",4,46531.0969795693
+"SEL-01-01","Sockeye","Osoyoos-Skaha-Okanagan",2023,"Abs_Abd","Amber","Green",NA,"Red",NA,NA,"Amber","Green","Amber","Green",5,47636.0555636752

@@ -1,0 +1,67 @@
+CU_ID,CU_Name,Species,DataType,Label,Year,Metric,Compare,LBM,UBM,Value,Status
+CK-01,Okanagan_1.x ,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_03,Lower Fraser River_FA_0.3,Chinook,Abs_Abd,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,4,Green
+CK_05,Lower Fraser River-Upper Pitt_SU_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,0,DD
+CK_06,Lower Fraser River_SU_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,0,DD
+CK_08,Middle Fraser-Fraser Canyon_SP_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,0,DD
+CK_09,Middle Fraser River-Portage_FA_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_10,Middle Fraser River_SP_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_11,Middle Fraser River_SU_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,3,Amber
+CK_12,Upper Fraser River_SP_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_13,South Thompson_SU_0.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,5,Green
+CK_14,South Thompson_SU_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,2,RedAmber
+CK_16,South Thompson-Bessette Creek_SU_1.2,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_17,Lower Thompson_SP_1.2,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_18,North Thompson_SP_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CK_19,North Thompson_SU_1.3,Chinook,Rel_Idx,SpnForAbd_Wild,2012,IntStatus,NA,NA,NA,1,Red
+CO-48,Middle Fraser,Coho,Abs_Abd,SpnForAbd_Wild,2013,IntStatus,NA,NA,NA,3,Amber
+CO-05,Fraser Canyon,Coho,Abs_Abd,SpnForAbd_Wild,2013,IntStatus,NA,NA,NA,3,Amber
+CO-07,Lower Thompson,Coho,Abs_Abd,SpnForAbd_Wild,2013,IntStatus,NA,NA,NA,4,AmberGreen
+CO-09,North Thompson,Coho,Abs_Abd,SpnForAbd_Wild,2013,IntStatus,NA,NA,NA,4,AmberGreen
+CO-08,South Thompson,Coho,Abs_Abd,SpnForAbd_Wild,2013,IntStatus,NA,NA,NA,3,Amber
+SEL-07-01,Bowron_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SEL-06-11,Seton_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,NA,UD
+SEL-03-04,Harrison_US_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,3,Amber
+SEL-04-01,Lillooet_Harr_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,5,Green
+SEL-03-03,Harrison_DS_L,Sockeye,Rel_Idx,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,5,Green
+SEL-05-02,Nahatlatch_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SEL-06-16,Taseko_ES,Sockeye,Rel_Idx,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SER-02,Widgeon_RT,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SEL-03-01,Chilliwack_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,2,RedAmber
+SEL-06-14,Takla_Trem_EStu,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SEL-06-01,Anderson_Seton_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,3,Amber
+SEL-10-01,Kamloops_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,3,Amber
+SEL-09-02,Shuswap_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-06-13,Takla_Trem_S_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,2,RedAmber
+SEL-06-10,Quesnel_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,2,RedAmber
+SEL-09-03,Shuswap_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,5,Green
+SEL-06-20,Nadina_Francois_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SEL-10-03,North_Barriere_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,3,Amber
+SEL-03-05,Pitt_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-06-03,Chilko_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,5,Green
+SEL-06-07,Fran_Fras_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,2,RedAmber
+SEL-03-02,Cultus_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,1,Red
+SER-03,Harrison_R,Sockeye,Abs_Abd,SpnForAbd_Wild,2010,IntStatus,NA,NA,NA,5,Green
+SEL-07-01,Bowron_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SEL-06-11,Seton_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SEL-03-04,Harrison_US_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SEL-04-01,Lillooet_Harr_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,3,Amber
+SEL-03-03,Harrison_DS_L,Sockeye,Rel_Idx,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-05-02,Nahatlatch_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,3,Amber
+SEL-06-16,Taseko_ES,Sockeye,Rel_Idx,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SER-02,Widgeon_RT,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SEL-03-01,Chilliwack_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-06-14,Takla_Trem_EStu,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SEL-06-01,Anderson_Seton_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,3,AmberGreen
+SEL-10-01,Kamloops_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,3,Amber
+SEL-09-02,Shuswap_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,3,Amber
+SEL-06-13,Takla_Trem_S_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,2,RedAmber
+SEL-06-10,Quesnel_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,2,RedAmber
+SEL-09-03,Shuswap_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-06-20,Nadina_Francois_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-10-03,North_Barriere_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,3,Amber
+SEL-03-05,Pitt_ES,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,5,Green
+SEL-06-03,Chilko_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,5,Green
+SEL-06-07,Fran_Fras_S,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,4,AmberGreen
+SEL-03-02,Cultus_L,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,1,Red
+SER-03,Harrison_R,Sockeye,Abs_Abd,SpnForAbd_Wild,2015,IntStatus,NA,NA,NA,5,Green

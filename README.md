@@ -99,19 +99,23 @@ This repository contains the WSP statuses that have been approved for use throug
 
 ## Repository Contents
 
-* DATA Folder:
-  * CU_Data.csv contains all spawner and recruitment data for each CU
-  * CU_PublishedIntegratedStatuses.csv contains previously completed integrated WSP statuses for relevant CUs
-* SPECS Folder
-  * CU_Metric_Specifications.csv contains metric settings used to tune metrics for each CU
-  * CU_CyclicBM contains relative abundance metric benchmarks for cyclic CUs 
-* CODE Folder
-  * 1_Run_MetricsCalcs&RapidStatus.R calculates WSP metrics and applies the WSP decision tree for each CU 
-* PROCESSING Folder
+* **DATA Folder**:
+  * *CU_Data.csv* contains all spawner and recruitment data for each CU
+  * *CU_PublishedIntegratedStatuses.csv* contains previously completed integrated WSP statuses for relevant CUs
+  * Details below
+* **SPECS Folder**:
+  * *CU_Metric_Specifications.csv* contains metric settings used to tune metrics for each CU
+  * *CU_CyclicBM.csv* contains relative abundance metric benchmarks for cyclic CUs
+  * Details below 
+* **CODE Folder**:
+  * *1_Run_MetricsCalcs&RapidStatus.R* calculates WSP metrics and applies the WSP decision tree for each CU
+  * Details below
+* **PROCESSING Folder**:
   * Contains various intermediary files documenting outputs at each sub-step run by the code 
-* OUTPUT folder:
-  * Retro_Synoptic_Details_Approved.csv contains calculated metrics and decision tree results
-  * Dashboards visually present data, metrics, and statuses by CU
+* **OUTPUT Folder**:
+  * *Retro_Synoptic_Details_Approved.csv* contains calculated metrics and decision tree results
+  * *Dashboards* visually present data, metrics, and statuses by CU
+  * Details below
     
 
 
@@ -138,7 +142,7 @@ Details on data preparation for Fraser Chum are outlined in {SOS paper}.
 
 
 
-### Specs
+### Specifications (Specs Folder)
 Up to four key WSP metrics are calculated for each CU to determine status: absolute abundance, relative abundance, long-term trend, and short-term trend, or, percent change.
 
 | Metric | Description |
@@ -150,12 +154,18 @@ Up to four key WSP metrics are calculated for each CU to determine status: absol
 
 
 The four key WSP metrics are described in detail in [Pestal et al. (2023)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf). 
-Each metric is calculated only where it is considered appropriate by CU experts, given the data available for the CU and their expert knowledge. Along with selecting which metrics are appropriate for each CU, experts also select metrics settings, which include inputs like the average generation length, and options like log-transforming or smoothing data as part of the metric calculation.
+Each metric is calculated only where considered appropriate by CU experts, given the data available for the CU and their expert knowledge. Generally, if the data available for a CU captures the total abundance (absolute abundance data), all four metrics will be considered applicable. Alternatively, if the data are an index of the total abundance (relative index data), the absolute abundance metric will not be calculated apart from in a few specific cases where it is deemed appropriate by the CU experts.
+Use of the relative abundance metric depends on the availability of appropriate benchmarks for each CU. These are provided by DFO Stock Assessment where they are applicable.  
+Along with selecting which metrics are appropriate, experts also select metrics settings. These include inputs like the average generation length, and options like log-transforming or smoothing data as part of the metric calculation. See the documentation of the [*WSPMetrics*](https://github.com/Pacific-salmon-assess/WSP-Metrics-Pkg) package for more details on metric settings. 
 
-Metric applicability and settings are provided in CU_Metric_Specifications.csv. This file also contains metric benchmarks, including CU-specific relative abundance benchmarks provided by DFO Stock Assessment where appropriate.
+Metric applicability and settings are provided in *CU_Metric_Specifications.csv*. This file also contains metric benchmarks, including CU-specific benchmarks for the relative abundance metric. 
 
 ### Code
-Contains an R script that installs the WSPMetrics Package (Holt et al. 2025), calculates metrics for each CU according to the specifications provided in the spec file, applies the WSP status decision tree, and generates a csv file containing results and status dashboards.
+Contains an R script that performs the following steps:
+* installs the *WSPMetrics* Package (Holt et al. 2025);
+* runs functions from the *WSPMetrics* package to calculate metrics for each CU according to the specifications and benchmarks provided in *CU_Metric_Specifications.csv*;
+* applies the WSP status decision tree (also a function in *WSPMetrics*; and,
+* generates status dashboards and the file *Retro_Synoptic_Details_Approved.csv* containing metric and status results.
 
 
 

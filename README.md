@@ -127,6 +127,8 @@ Sites are selected according to minimum data standards that identify suitable me
 
 Once sites are selected, data can be treated to remove hatchery contributions or to fill gaps in the site time series’ where appropriate. Guidelines for hatchery removals are found in [Withler et al. (2018)](https://waves-vagues.dfo-mpo.gc.ca/Library/40702285.pdf). Details on various gap-filling methods are found in Appendix 5 of [Grant et al. (2011)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/344553.pdf).
 
+#### Approved CUs
+
 Fraser Sockeye, Chinook, and Interior Fraser Coho data were updated to 2023 using methods previously developed for WSP and COSEWIC status assessments ([Grant et al. 2011,](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/344553.pdf) [2020](https://publications.gc.ca/collections/collection_2020/mpo-dfo/fs70-5/Fs70-5-2020-038-eng.pdf); [DFO 2015](https://waves-vagues.dfo-mpo.gc.ca/Library/364851.pdf); [2016](https://waves-vagues.dfo-mpo.gc.ca/Library/40595419.pdf)), and also previously applied in the developement and evaluation of the WSP rapid status assessment methodology [(Pestal et al. 2023;](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) [DFO 2024)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf).
 
 Details on data preparation are provided in the following: 
@@ -156,6 +158,7 @@ Up to four key WSP metrics are calculated for each CU to determine status: absol
 The four key WSP metrics are described in detail in [Pestal et al. (2023)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf). 
 Each metric is calculated only where considered appropriate by CU experts, given the data available for the CU and their expert knowledge. Generally, if the data available for a CU captures the total abundance (absolute abundance data), all four metrics will be considered applicable. Alternatively, if the data are an index of the total abundance (relative index data), the absolute abundance metric will not be calculated apart from in a few specific cases where it is deemed appropriate by the CU experts.
 Use of the relative abundance metric depends on the availability of appropriate benchmarks for each CU. These are provided by DFO Stock Assessment where they are applicable.  
+
 Along with selecting which metrics are appropriate, experts also select metrics settings. These include inputs like the average generation length, and options like log-transforming or smoothing data as part of the metric calculation. See the documentation of the [*WSPMetrics*](https://github.com/Pacific-salmon-assess/WSP-Metrics-Pkg) package for more details on metric settings. 
 
 Metric applicability and settings are provided in *CU_Metric_Specifications.csv*. This file also contains metric benchmarks, including CU-specific benchmarks for the relative abundance metric. 

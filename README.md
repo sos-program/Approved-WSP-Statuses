@@ -129,7 +129,7 @@ Once sites are selected, data can be treated to remove hatchery contributions or
 
 #### Approved CUs
 
-Fraser Sockeye, Chinook, and Interior Fraser Coho data were updated to 2023 using methods previously developed for WSP and COSEWIC status assessments ([Grant et al. 2011,](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/344553.pdf) [2020](https://publications.gc.ca/collections/collection_2020/mpo-dfo/fs70-5/Fs70-5-2020-038-eng.pdf); [DFO 2015](https://waves-vagues.dfo-mpo.gc.ca/Library/364851.pdf); [2016](https://waves-vagues.dfo-mpo.gc.ca/Library/40595419.pdf)), and also previously applied in the developement and evaluation of the WSP rapid status assessment methodology [(Pestal et al. 2023;](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) [DFO 2024)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf).
+Fraser Sockeye, Chinook, and Interior Fraser Coho data were updated to 2023 using methods previously developed for WSP and COSEWIC status assessments ([Grant et al. 2011,](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/344553.pdf) [2020](https://publications.gc.ca/collections/collection_2020/mpo-dfo/fs70-5/Fs70-5-2020-038-eng.pdf); [DFO 2015](https://waves-vagues.dfo-mpo.gc.ca/Library/364851.pdf); [2016](https://waves-vagues.dfo-mpo.gc.ca/Library/40595419.pdf)), and also previously applied in the development and evaluation of the WSP rapid status assessment methodology [(Pestal et al. 2023;](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) [DFO 2024)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf).
 
 Details on data preparation are provided in the following: 
 * Fraser Chinook: [COSEWIC (2018)](https://wildlife-species.canada.ca/species-risk-registry/virtual_sara/files/cosewic/ChinookSalmon-v00-2019-Eng.pdf), [COSEWIC (2020)](https://publications.gc.ca/collections/collection_2021/eccc/CW69-14-469-2021-eng.pdf), and DFO (in review)
@@ -169,6 +169,28 @@ Contains an R script that performs the following steps:
 * runs functions from the *WSPMetrics* package to calculate metrics for each CU according to the specifications and benchmarks provided in *CU_Metric_Specifications.csv*;
 * applies the WSP status decision tree (also a function in *WSPMetrics*; and,
 * generates status dashboards and the file *Retro_Synoptic_Details_Approved.csv* containing metric and status results.
+
+
+#### WSP Rapid Status Decision Tree
+
+The rapid status decision tree evaluates and combines the WSP metrics through a series of steps, depending on their availability and values for each CU. The decision tree consists of a series of Yes/No questions that ask if metrics are available and, if so, compare metric values to thresholds. Thresholds were derived from previously completed WSP status assessments and represent how Pacific salmon experts interpreted the metrics in practice, and in combination with each other to determine statuses. See [Pestal et al. (2023)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) for further explanation.   
+
+The path, or branch, taken by each CU for each assessment year depends on which metrics are available, and the values of those metrics in comparison to the thresholds. Each branch leads to a status assignment and a confidence rating for that status. Confidence ratings of low, medium, or high are associated with the metrics used to assign each status. The absolute and relative abundance metrics are associated with greater confidence in the statuses being assigned than statuses that are determined using only trends in abundances (short and long term trend). See [Pestal et al. (2023)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) for details.  
+
+| Metric | Thresholds |
+|--------| -------------|
+| Absolute Abundance |	Node 1: 1,500 spawners; Node 2: 10,000 spawners |
+| Relative Abundance |	Nodes 9 & 11: relative abundance metric lower benchmark; Node 18: relative abundance metric upper benchmark PLUS a 10% buffer |
+| Long-term Trend |	Nodes 8 & 10:  long-term trend < 79%; Node 32: long-term trend < 233% |
+| Short-term Trend (percent change)	| Node 16:  short-term trend  < 70% decline |
+
+
+
+WSP rapid statuses are iteratively reviewed by species experts through collaborative processes where experts evaluate metric settings and results from the decision tree until final status results are approved by all participants. Comments and concerns expressed by CU experts during the review processes are documented in CU narratives.  
+
+The WSP rapid status decision tree is fully documented in [Pestal et al. (2023)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) and [DFO (2024)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf). 
+
+![WSP Rapid Status Decision Tree](Rapid status algorithm infographic (full algorithm).png)
 
 
 

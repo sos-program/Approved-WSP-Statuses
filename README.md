@@ -190,7 +190,7 @@ WSP rapid statuses are iteratively reviewed by species experts through collabora
 
 The WSP rapid status decision tree is fully documented in [Pestal et al. (2023)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf) and [DFO (2024)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/41207890.pdf). 
 
-![WSP Rapid Status Decision Tree](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/tree/master/Rapid status algorithm infographic (full algorithm).png)
+![WSP Rapid Status Decision Tree](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/blob/master/Rapid%20status%20algorithm%20infographic%20(full%20algorithm).png)
 
 
 

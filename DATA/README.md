@@ -1,4 +1,4 @@
-# Data fields
+# Data fields in CU_Data.csv
 
 | Variable Name | Description | 
 |--- | --- |

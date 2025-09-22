@@ -1,5 +1,7 @@
 # Data fields in CU_Data.csv
 
+### CU_Data.csv is the main data file that is updated annually in order to update statuses.
+
 | Variable Name | Description | 
 |--- | --- |
 | CU_ID | Unique and standardized identifier for each Pacific salmon Conservation Unit (CU)  |

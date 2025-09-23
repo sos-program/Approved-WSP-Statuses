@@ -111,7 +111,7 @@ This repository contains the WSP statuses that have been approved for use throug
   * *1_Run_MetricsCalcs&RapidStatus.R* calculates WSP metrics and applies the WSP decision tree for each CU
   * Details below
 * **PROCESSING Folder**:
-  * Contains various intermediary files documenting outputs at each sub-step run by the code 
+  * Contains various files that document outputs at each sub-step run by the code 
 * **OUTPUT Folder**:
   * *Retro_Synoptic_Details_Approved.csv* contains calculated metrics and decision tree results
   * *Dashboards* visually present data, metrics, and statuses by CU

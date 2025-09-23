@@ -114,9 +114,7 @@ This repository contains the WSP statuses that have been approved for use throug
   * Contains various files that document outputs at each sub-step run by the code 
 * **OUTPUT Folder**:
   * *Retro_Synoptic_Details_Approved.csv* contains calculated metrics and decision tree results
-  * *Dashboards* visually present data, metrics, and statuses by CU
-  * Details below
-    
+  * *Dashboards* visually present data, metrics, and statuses by CU   
 
 
 ### Data 
@@ -127,7 +125,7 @@ Sites are selected according to minimum data standards that identify suitable me
 
 Once sites are selected, data can be treated to remove hatchery contributions or to fill gaps in the site time series’ where appropriate. Guidelines for hatchery removals are found in [Withler et al. (2018)](https://waves-vagues.dfo-mpo.gc.ca/Library/40702285.pdf). Details on various gap-filling methods are found in Appendix 5 of [Grant et al. (2011)](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/344553.pdf).
 
-See [Data folder]() for further information on the approved data sets. 
+See [Data folder](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/tree/master/DATA) for further information on the approved data sets. 
 
 ### Specifications (Specs Folder)
 Up to four key WSP metrics are calculated for each CU to determine status: absolute abundance, relative abundance, long-term trend, and short-term trend, or, percent change.

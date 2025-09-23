@@ -1,1 +1,41 @@
 # Specification Files
+
+### Data Details in CU_Metric_Specificiations.csv
+
+| Variable | Description |
+| -------- | ----------- |
+| CU_ID	| Unique and standardized identifier for each Pacific salmon Conservation Unit (CU) 
+| CU_Acro	| CU Acronym for dashboards |
+| CU_Name	| Full offical CU name |
+| Group | Group the CU belongs to, eg. Fraser Sockeye |
+| DataQualkIdx | Data type, either Absolute Abundance (AbsAbd) or Relative Index (RelIdx) | 
+| AbdMetric | If TRUE the relative abundance metric is calculated (as long as benchmarks are provided) |	
+| AbsAbdMetric	| If TRUE the absolute abundance metric is calculated |
+| ShortTrendMetric	| If TRUE the short term trend/percent change metric is calculated  |
+| LongTrendMetric	| If TRUE the long term trend metric is calculated |
+| PercentileMetric	| If TRUE the percentile metric is calculated (currently not used) |
+| Avg_Gen	| Average generation time in years |
+| Cyclic |	Does the CU display cyclic abundance patterns (e.g. some Fraser Sockeye CUs like Shuswap_ES) |
+| Cyc_Dom |	If the CU is cyclic, which cycle line is dominant |
+| Cyc_Dom_Year	| If the CU is cyclic, which cycle line year is dominant (earliest relevant year in the data) |
+| TrendNumGen	| Number of generations used to calculate the percent decline |
+| TrendExtraYears	| Provided if additional years of data are used in the percent decline metric |
+| TrendLog	| Log-transform data when calculating the percent change metric (TRUE/FALSE) |
+| TrendSmooth | Use smoothed data when calculating the percent change metric (TRUE/FALSE)|
+| AvgType	| Type of average to use in the long term trend (mean, geometric mean (geomean), median)| 
+| AvgSmooth |  Use smoothed data when calculating the long term trend metric (TRUE/FALSE)|	
+| AvgRecentExcl | Exclude the most recent generation in the long term average component of the long term trend metric (TRUE/FALSE) |	
+| LongTrendMinYears	| Minimum number of years of data needed to calculate the long term trend metric |
+| RelAbd_AvgData | Use 'regular' or 'smoothed' data when calculating the recent generation average in the relative and absolute abundance metrics. See notes in [*WSPMetrics package*](https://github.com/Pacific-salmon-assess/WSP-Metrics-Pkg/tree/master) for more details. | 	
+| RelAbd_LBM | Lower benchmark for the relative abundance metric (CU-specific) |
+| RelAbd_UBM | Upper benchmark for the relative abundance metric (CU-specific) |	
+| AbsAbd_LBM | Lower benchmark for the absolute abundance metric (1,000) |
+| AbsAbd_UBM | Lower benchmark for the absolute abundance metric (10,000) |	
+| LongTrend_LBM | Lower benchmark for the long term trend metric (0.5 converted to 50 in output) |	
+| LongTrend_UBM	| Upper benchmark for the long term trend metric (0.75 converted to 75 in output)
+| PercChange_LBM	| Lower benchmark for the percent change metric (-25%) |
+| PercChange_UBM	| Upper benchmark for the percent change metric (-15%) |
+| ProbDeclBelowLBM_LBM	| Not used (NA) |
+| ProbDeclBelowLBM_UBM	| Not used (NA) |
+| Trends_StartYr |	Not used (NA) |
+| Abd_StartYr | Not used (NA) |

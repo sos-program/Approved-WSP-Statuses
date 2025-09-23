@@ -18,42 +18,42 @@
 | Stock | Full CU name |
 | DataType | Data type, either Absolute Abundance (AbsAbd) or Relative Index (RelIdx) |  
 | Year | Escapement year |
-| SpnForAbd_Wild | Wild spawner abundance that can be used to calculate abundance-based WSP metrics (relative abundance and absolute abundance) |
-| SpnForTrend_Wild | Wild spawner abundance that can be used to calculate trend-based WSP metrics (long-term trend and percent change) |
-| RelLBM |  |
-AbsLBM
-LongTrend
-PercChange
-ProbDeclBelowLBM
-Percentile
-RelUBM
-AbsUBM
-NumStdMetrics
-Value
-IntStatusRaw
-IntStatusRaw_Short
-IntStatus_Short
-RapidStatus
-BinLabel
-BinPath
-RapidScore
-RelLBMCat
-AbsLBMCat
-LongTrendCat
-PercChangeCat
-ProbDeclBelowLBMCat
-PercentileCat
-RelUBMCat
-AbsUBMCat
-RelAbdCat
-AbsAbdCat
-RelAbd_LBM
-RelAbd_UBM
-SpnForAbd_Total
-SpnForTrend_Total
-ConfidenceRating5
-ConfidenceRating3
-ConfidenceRating2
-IntStatus5
-IntStatus3
-IntStatus2
+| SpnForAbd_Wild | Wild spawner abundance that can be used to calculate abundance-based WSP metrics (*relative abundance* and *absolute abundance*) |
+| SpnForTrend_Wild | Wild spawner abundance that can be used to calculate trend-based WSP metrics (*long-term trend* and *percent change*) |
+| RelLBM | Ratio of the recent average spawner abundance to the relative abundance metric lower benchmark (where available) |
+| AbsLBM | Ratio of the recent average spawner abundance to the absolute abundance metric lower benchmark |
+| LongTrend | Longer term trend metric value |
+| PercChange | Percent change metric value |
+| ProbDeclBelowLBM | Not currently in use |
+| Percentile | Not used (NA) |
+| RelUBM | Ratio of the recent average spawner abundance to the relative abundance metric upper benchmark (where available) |
+| AbsUBM | Ratio of the recent average spawner abundance to the absolute abundance metric upper benchmark |
+| NumStdMetrics | Number of standard metrcis calculated |
+| Value | Generational average |
+| IntStatusRaw | Integrated Status |
+| IntStatusRaw_Short | NA |
+| IntStatus_Short | NA |
+| RapidStatus | WSP rapid status |
+| BinLabel |  End node of the WSP rapid status decision tree that determined the rapid status |
+| BinPath | WSP decision tree pathway that led to the end node (BinLabel) and rapid status |
+| RapidScore | NA |
+| RelLBMCat | To be removed |
+| AbsLBMCat | To be removed  |
+| LongTrendCat | Long term trend metric status |
+| PercChangeCat | Percent change metric status |
+| ProbDeclBelowLBMCat | NA |
+| PercentileCat | NA | 
+| RelUBMCat | To be removed |
+| AbsUBMCat | To be removed |
+| RelAbdCat | Relative abundance metric status |
+| AbsAbdCat | Absolute abundance metric status |
+| RelAbd_LBM | Relative abundance metric lower benchmark |  
+| RelAbd_UBM | Relative abundance metric lower benchmark |
+| SpnForAbd_Total | Total spawner abundance that can be used to calculate abundance-based WSP metrics (*relative abundance* and *absolute abundance*) |
+| SpnForTrend_Total | Total spawner abundance that can be used to calculate trend-based WSP metrics (*long-term trend* and *percent change*) |
+| ConfidenceRating5 | Status confidence rating |
+| ConfidenceRating3 | to be removed |
+| ConfidenceRating2 | to be removed |
+| IntStatus5 | to be removed |
+| IntStatus3 | to be removed |
+| IntStatus2 | to be removed |

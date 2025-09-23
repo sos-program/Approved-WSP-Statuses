@@ -15,12 +15,12 @@
 | ---------| ----------- |
 | CU_ID | Unique and standardized identifier for each Pacific salmon Conservation Unit (CU) |                                                                                                                               
 | Species | 	Species of salmon |
-| Stock | |
-DataType
-Year
-SpnForAbd_Wild
-SpnForTrend_Wild
-RelLBM
+| Stock | Full CU name |
+| DataType | Data type, either Absolute Abundance (AbsAbd) or Relative Index (RelIdx) |  
+| Year | Escapement year |
+| SpnForAbd_Wild | Wild spawner abundance that can be used to calculate abundance-based WSP metrics (relative abundance and absolute abundance) |
+| SpnForTrend_Wild | Wild spawner abundance that can be used to calculate trend-based WSP metrics (long-term trend and percent change) |
+| RelLBM |  |
 AbsLBM
 LongTrend
 PercChange

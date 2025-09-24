@@ -9,7 +9,7 @@
 
 **Note that metric benchmarks may differ from algorithm thresholds since thresholds approximate the status determination process from past WSP integrated status assessments**
 
-### Retro_Synoptic_Details_Approved.csv Data Fields
+### Retro_Synoptic_Details_Approved.csv Data Fields (also available in [Retro_Synoptic_Details_Approved_VariableDescriptions.csv](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/blob/master/OUTPUT/Retro_Synoptic_Details_Approved_VariableDescriptions.csv))
 
 | Variable | Description |
 | ---------| ----------- |

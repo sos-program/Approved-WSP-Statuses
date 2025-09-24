@@ -15,7 +15,7 @@ Details on data preparation for Fraser Chum are outlined in {SOS paper}.
 
 # Data fields in CU_Data.csv
 
-### CU_Data.csv is the main data file that is updated annually in order to update statuses.
+### CU_Data.csv is the main data file that is updated annually in order to update statuses. Descriptions of each variable also available in [CU_Data_VariableDescriptions.csv](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/blob/master/DATA/CU_Data_VariableDescriptions.csv).
 
 | Variable Name | Description | 
 |--- | --- |

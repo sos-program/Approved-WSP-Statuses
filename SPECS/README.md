@@ -1,6 +1,6 @@
 # Specification Files
 
-### Data Details in CU_Metric_Specificiations.csv
+### Data Details for CU_Metric_Specificiations.csv also available in [CU_Metric_Specifications_VariableDescriptions.csv](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/blob/master/SPECS/CU_Metric_Specifications_VariableDescriptions.csv).
 
 | Variable | Description |
 | -------- | ----------- |

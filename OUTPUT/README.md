@@ -3,7 +3,7 @@
 [Retro_Synoptic_Details_Approved.csv](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/blob/master/OUTPUT/Retro_Synoptic_Details_Approved.csv) contains the escapement data, annual metric values, and statuses for each approved CU.
 
 [Dashboards](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/tree/master/OUTPUT/Dashboards) are image files that graphically display annual WSP metric values and statuses. Each dashboard has four top panels in a 2X2 grid, and a bottom panel. 
-- The top panels show the four standard WSP metrics (relative abundance, absolute abundance, long term trend & percent change), calculated based on the available time series of spawner abundances for each CU. 
+- The top panels show the four standard WSP metrics (relative abundance, absolute abundance, long term trend & percent change), calculated based on the available time series of spawner abundances for each CU. Shaded backgrounds (red, amber, green) delineate the metric status zones according to the WSP metric benchmarks, where they are applicable. 
 - The bottom panel summarizes the "status" for each of the four individual metrics (i.e. they are categorized into red, amber or green zones based on the annual metric value in relation to the WSP metric benchmarks).
   The fifth row shows the WSP rapid status for the CU with a confidence rating. If integrated WSP status assessments have been completed for this CU, they are shown on the last row (IntStatus). 
 

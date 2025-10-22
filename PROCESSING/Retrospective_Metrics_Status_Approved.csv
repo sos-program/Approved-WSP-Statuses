@@ -285,7 +285,7 @@
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2017,"Rel_Idx",NA,NA,"Green","Red",NA,NA,NA,NA,NA,NA,2,4178.75318072966
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2018,"Rel_Idx",NA,NA,"Green","Amber",NA,NA,NA,NA,NA,NA,2,3814.22327433052
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2019,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,2216.40894153456
-"CK-10","Chinook","Middle Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Amber",NA,NA,NA,NA,NA,NA,2,2026.42766704587
+"CK-10","Chinook","Middle Fraser River_SP_1.3",2020,"Rel_Idx",NA,NA,"Red","Red",NA,NA,NA,NA,NA,NA,2,2026.42766704587
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2021,"Rel_Idx",NA,NA,"Red","Green",NA,NA,NA,NA,NA,NA,2,2281.66793447909
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2022,"Rel_Idx",NA,NA,"Amber","Amber",NA,NA,NA,NA,NA,NA,2,3016.32086946188
 "CK-10","Chinook","Middle Fraser River_SP_1.3",2023,"Rel_Idx",NA,NA,"Amber","Green",NA,NA,NA,NA,NA,NA,2,3270.00479992167
@@ -415,13 +415,13 @@
 "CK-15","Chinook","Shuswap River_SU_0.3",2002,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,34914.5753946263
 "CK-15","Chinook","Shuswap River_SU_0.3",2003,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,32948.5988026451
 "CK-15","Chinook","Shuswap River_SU_0.3",2004,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,29319.0287396404
-"CK-15","Chinook","Shuswap River_SU_0.3",2005,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6,25450.8498495731
+"CK-15","Chinook","Shuswap River_SU_0.3",2005,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,25450.8498495731
 "CK-15","Chinook","Shuswap River_SU_0.3",2006,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,26477.1978792559
 "CK-15","Chinook","Shuswap River_SU_0.3",2007,"Abs_Abd","Amber","Green","Green","Amber",NA,NA,"Amber","Green","Amber","Green",6,22050.7068167916
 "CK-15","Chinook","Shuswap River_SU_0.3",2008,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,21438.8256525484
 "CK-15","Chinook","Shuswap River_SU_0.3",2009,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,23175.9529868247
 "CK-15","Chinook","Shuswap River_SU_0.3",2010,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,24420.9182704658
-"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd","Green","Green","Green","Green",NA,NA,"Green","Green","Green","Green",6,25100.1345011719
+"CK-15","Chinook","Shuswap River_SU_0.3",2011,"Abs_Abd","Green","Green","Green","Amber",NA,NA,"Green","Green","Green","Green",6,25100.1345011719
 "CK-15","Chinook","Shuswap River_SU_0.3",2012,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,17475.1629746316
 "CK-15","Chinook","Shuswap River_SU_0.3",2013,"Abs_Abd","Amber","Green","Green","Red",NA,NA,"Amber","Green","Amber","Green",6,17374.1953506346
 "CK-15","Chinook","Shuswap River_SU_0.3",2014,"Abs_Abd","Amber","Green","Green","Amber",NA,NA,"Amber","Green","Amber","Green",6,15227.0496960791
@@ -488,7 +488,7 @@
 "CK-17","Chinook","Lower Thompson_SP_1.2",2017,"Abs_Abd","Green","Amber","Green","Green",NA,NA,"Green","Amber","Green","Amber",6,8853.79408422585
 "CK-17","Chinook","Lower Thompson_SP_1.2",2018,"Abs_Abd","Green","Amber","Amber","Green",NA,NA,"Green","Amber","Green","Amber",6,3928.8681215172
 "CK-17","Chinook","Lower Thompson_SP_1.2",2019,"Abs_Abd","Amber","Amber","Red","Red",NA,NA,"Amber","Amber","Amber","Amber",6,3074.58879167474
-"CK-17","Chinook","Lower Thompson_SP_1.2",2020,"Abs_Abd","Amber","Amber","Red","Red",NA,NA,"Amber","Amber","Amber","Amber",6,2983.53384807298
+"CK-17","Chinook","Lower Thompson_SP_1.2",2020,"Abs_Abd","Amber","Amber","Red","Amber",NA,NA,"Amber","Amber","Amber","Amber",6,2983.53384807298
 "CK-17","Chinook","Lower Thompson_SP_1.2",2021,"Abs_Abd","Amber","Amber","Red","Red",NA,NA,"Amber","Amber","Amber","Amber",6,2814.72803524285
 "CK-17","Chinook","Lower Thompson_SP_1.2",2022,"Abs_Abd","Green","Amber","Amber","Red",NA,NA,"Green","Amber","Green","Amber",6,4544.21481309194
 "CK-17","Chinook","Lower Thompson_SP_1.2",2023,"Abs_Abd","Green","Amber","Green","Red",NA,NA,"Green","Amber","Green","Amber",6,5840.53605230708
@@ -572,7 +572,7 @@
 "CM-02","Chum","Lower Fraser Chum",2014,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,967577.534235596
 "CM-02","Chum","Lower Fraser Chum",2015,"Rel_Idx",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,0,939043.230325393
 "CM-02","Chum","Lower Fraser Chum",2016,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,1024480.50209249
-"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Red",NA,NA,NA,NA,NA,NA,1,940721.844530156
+"CM-02","Chum","Lower Fraser Chum",2017,"Rel_Idx",NA,NA,NA,"Amber",NA,NA,NA,NA,NA,NA,1,940721.844530156
 "CM-02","Chum","Lower Fraser Chum",2018,"Rel_Idx",NA,NA,NA,"Green",NA,NA,NA,NA,NA,NA,1,841146.919341077
 "CM-02","Chum","Lower Fraser Chum",2019,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,639262.924277177
 "CM-02","Chum","Lower Fraser Chum",2020,"Rel_Idx",NA,NA,"Green","Green",NA,NA,NA,NA,NA,NA,2,471046.252561571
@@ -948,7 +948,7 @@
 "SEL-05-02","Sockeye","Nahatlatch_ES",1998,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4,6126.37908540474
 "SEL-05-02","Sockeye","Nahatlatch_ES",1999,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4,6470.73145821731
 "SEL-05-02","Sockeye","Nahatlatch_ES",2000,"Abs_Abd",NA,"Amber","Green","Red",NA,"Green",NA,"Amber",NA,"Amber",4,5045.73833282618
-"SEL-05-02","Sockeye","Nahatlatch_ES",2001,"Abs_Abd",NA,"Amber","Green","Amber",NA,"Green",NA,"Amber",NA,"Amber",4,4342.89533669633
+"SEL-05-02","Sockeye","Nahatlatch_ES",2001,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,4342.89533669633
 "SEL-05-02","Sockeye","Nahatlatch_ES",2002,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,4568.84065054281
 "SEL-05-02","Sockeye","Nahatlatch_ES",2003,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,4810.28574590237
 "SEL-05-02","Sockeye","Nahatlatch_ES",2004,"Abs_Abd",NA,"Amber","Green","Green",NA,"Green",NA,"Amber",NA,"Amber",4,3257.51191360371
@@ -1198,7 +1198,7 @@
 "SEL-06-13","Sockeye","Takla_Trem_S_S",2016,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,130426.8585
 "SEL-06-13","Sockeye","Takla_Trem_S_S",2017,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
 "SEL-06-13","Sockeye","Takla_Trem_S_S",2018,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
-"SEL-06-13","Sockeye","Takla_Trem_S_S",2019,"Abs_Abd","Amber","Green","Green","Red",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
+"SEL-06-13","Sockeye","Takla_Trem_S_S",2019,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
 "SEL-06-13","Sockeye","Takla_Trem_S_S",2020,"Abs_Abd","Amber","Green","Green","Amber",NA,"Green","Amber","Green","Amber","Green",6,142409.0804
 "SEL-06-13","Sockeye","Takla_Trem_S_S",2021,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,379351.1715
 "SEL-06-13","Sockeye","Takla_Trem_S_S",2022,"Abs_Abd","Amber","Green","Green","Green",NA,"Green","Amber","Green","Amber","Green",6,379351.1715

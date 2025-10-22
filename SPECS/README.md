@@ -37,5 +37,4 @@
 | PercChange_UBM	| Upper benchmark for the percent change metric (-15%) |
 | ProbDeclBelowLBM_LBM	| Not used (NA) |
 | ProbDeclBelowLBM_UBM	| Not used (NA) |
-| Trends_StartYr |	Not used (NA) |
-| Abd_StartYr | Not used (NA) |
+

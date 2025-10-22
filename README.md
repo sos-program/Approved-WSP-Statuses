@@ -113,7 +113,7 @@ This repository contains the WSP statuses that have been approved for use throug
 * **PROCESSING Folder**:
   * Contains various files that document outputs at each sub-step run by the code 
 * **OUTPUT Folder**:
-  * *Retro_Synoptic_Details_Approved.csv* contains calculated metrics and decision tree results
+  * *Retrospective_RapidStatus_Results_Approved.csv* contains calculated metrics and decision tree results
   * *Dashboards* visually present data, metrics, and statuses by CU   
 
 
@@ -149,7 +149,7 @@ Along with selecting which metrics are appropriate, experts also select metrics 
 Contains an R script that performs the following steps:
 * installs the *WSPMetrics* Package (Holt et al. 2025);
 * runs functions from the *WSPMetrics* package to calculate metrics for each CU according to the specifications and benchmarks provided in *CU_Metric_Specifications.csv*;
-* applies the WSP status decision tree (also a function in *WSPMetrics*; and,
+* applies the WSP status decision tree (also a function in *WSPMetrics*); and,
 * generates status dashboards and the file *Retro_Synoptic_Details_Approved.csv* containing metric and status results.
 
 

@@ -6,8 +6,10 @@
 - The top panels show the four standard WSP metrics (relative abundance, absolute abundance, long term trend & percent change), calculated based on the available time series of spawner abundances for each CU. Shaded backgrounds (red, amber, green) delineate the metric status zones according to the WSP metric benchmarks, where they are applicable. 
 - The bottom panel summarizes the "status" for each of the four individual metrics (i.e. they are categorized into red, amber or green zones based on the annual metric value in relation to the WSP metric benchmarks).
   The fifth row shows the WSP rapid status for the CU with a confidence rating. If integrated WSP status assessments have been completed for this CU, they are shown on the last row (IntStatus). 
-
 **Note that metric benchmarks may differ from algorithm thresholds since thresholds approximate the status determination process from past WSP integrated status assessments**
+
+[Narratives](https://github.com/BronwynMacDonald/Approved-WSP-Statuses/tree/master/OUTPUT/Narratives) are also known as Limit Reference Point and WSP rapid status summaries. These are prepared during rapid status assessment review processes with experts. Each covers a Stock Management Unit, which is a fisheries management aggregation that consists of one or more CU. Narratives document the data and data preparation methods used in the rapid status assessment of each CU, including relative abundance metric benchmarks. They also document WSP statuses, the logic for each status assignment according to the WSP decision tree, and any additional comments or concerns that were raised by experts during the review processes.  
+
 
 ### Retrospective_RapidStatus_Results_Approved.csv Data Fields 
 

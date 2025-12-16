@@ -2,7 +2,7 @@
 
 
 
-This repository contains the WSP statuses that have been approved for use through collaborative review processes with local CU experts. For background on WSP status assessments and the WSP status assessment process, see the [State of the Salmon Github.io Site](https://sos-program.github.io/)
+This repository contains the WSP statuses for Pacific salmon Conservation Units that have been approved for use through collaborative review processes with local CU experts. For background on WSP status assessments and the WSP status assessment process, see the [State of the Salmon Github.io Site](https://sos-program.github.io/)
 
 
 

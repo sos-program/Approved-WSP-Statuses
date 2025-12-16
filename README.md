@@ -114,7 +114,8 @@ This repository contains the WSP statuses for Pacific salmon Conservation Units 
   * Contains various files that document outputs at each sub-step run by the code 
 * **OUTPUT Folder**:
   * *Retrospective_RapidStatus_Results_Approved.csv* contains calculated metrics and decision tree results
-  * *Dashboards* visually present data, metrics, and statuses by CU   
+  * *Dashboards* visually present data, metrics, and statuses by CU
+  * *Narratives* that were reviewed during collaborative review processes for 2023 statuses   
 
 
 ### Data 

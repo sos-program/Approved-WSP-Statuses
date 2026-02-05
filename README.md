@@ -46,7 +46,6 @@ Approved statuses release for DFO State of the Salmon Program 2026. <i>State of 
 |CU ID| CU Name | 
 | --- | --- |
 | CK-01 | Okanagan_1.x |
-| CK-02 | Boundary Bay_FA_0.3 |
 | CK-03	| Lower Fraser River_FA_0.3 |
 | CK-04 | Lower Fraser River_SP_1.3 |
 | CK-05 | Lower Fraser River-Upper Pitt_SU_1.3 |

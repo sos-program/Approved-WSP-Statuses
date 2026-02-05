@@ -5,7 +5,7 @@
 This repository contains the WSP statuses for Pacific salmon Conservation Units that have been approved for use through collaborative review processes with local CU experts. For background on WSP status assessments and the WSP status assessment process, see the [State of the Salmon Github.io Site](https://sos-program.github.io/)
 
 Approved statuses release for DFO State of the Salmon Program 2026. <i>State of the salmon - The Fraser River: Using data collected through 2023</i>.
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17957461.svg)](https://doi.org/10.5281/zenodo.17957461)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18498157.svg)](https://doi.org/10.5281/zenodo.18498157)
 
 ## Current list of approved CUs
 
